@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Missions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Missions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Missions\obj\Debug\Server.Missions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Missions\obj\Debug\Server.Missions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Missions\obj\Debug\Missions.csprojResolveAssemblyReference.cache

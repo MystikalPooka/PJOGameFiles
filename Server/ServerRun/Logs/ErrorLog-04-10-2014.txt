@@ -1,0 +1,14 @@
+--- 17:03:42 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 17:03:46 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

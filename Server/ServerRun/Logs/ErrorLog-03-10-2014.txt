@@ -1,0 +1,182 @@
+--- 20:01:08 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:13 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:14 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:17 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:21 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:23 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:26 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:27 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:50 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:55 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:01:58 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:02:00 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:02:04 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.Forms.LoadingUI.resources
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.Forms.MainUI.resources
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.exe.config
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\PokemonJourneyOnline\Server's\Build\Server.exe.config
+D:\PokemonJourneyOnline\Server's\Data\Server\obj\x86\Debug\Server.exe
+D:\PokemonJourneyOnline\Server's\Data\Server\obj\x86\Debug\Server.pdb

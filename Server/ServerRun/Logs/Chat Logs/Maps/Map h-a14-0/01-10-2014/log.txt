@@ -1,0 +1,22 @@
+[01/10/2014 16:03:42] Mei: Hi again
+[01/10/2014 16:03:50] Azalea: Hei
+[01/10/2014 16:04:45] Mei: I'm glad the server is on again, but I'm demotiaved..
+[01/10/2014 16:04:59] Azalea: Aha
+[01/10/2014 16:05:00] Mei: demotivated* whatever
+[01/10/2014 16:05:09] Azalea: I've just been on MDX
+[01/10/2014 16:05:16] Azalea: Or sitting in my room in the dark
+[01/10/2014 16:06:21] Mei: Oh.. I've been in PMU. 
+[01/10/2014 16:06:29] Mei: Taking turns in playing MDX and PMU..
+[01/10/2014 16:06:56] Azalea: Ah
+[01/10/2014 16:07:32] Mei: How do you warp someone to crossroads...?
+[01/10/2014 16:09:15] Azalea:  /tostart name
+[01/10/2014 16:09:21] Azalea: Is it offline?
+[01/10/2014 16:09:23] Mei: Ah. 
+[01/10/2014 16:09:27] Mei: ? Offline?
+[01/10/2014 16:11:22] Azalea: Is the person offline?
+[01/10/2014 16:11:43] Mei: Who person exactly?
+[01/10/2014 16:11:56] Mei: Brb, dad just called me to do Part 2 of my chores
+[01/10/2014 16:12:47] Azalea: I need to go
+[01/10/2014 16:12:53] Azalea: If the person you want to send, is offline
+[01/10/2014 16:12:57] Azalea: Just use /offlinetostart name
+[01/10/2014 16:26:44] Mei: .

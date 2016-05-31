@@ -1,0 +1,35 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Data\Scripts\Script.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Data\Scripts\Script.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Script\obj\Release\Script.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Script\obj\Release\Script.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Data\Scripts\Script.dll
+C:\Users\Pizu\Desktop\server\server\Data\Scripts\Script.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Server\Script\obj\Release\Script.dll
+C:\Users\Pizu\Desktop\server\server\Server\Script\obj\Release\Script.pdb
+D:\PokemonJourneyOnline\Server's\Data\Scripts\Script.dll
+D:\PokemonJourneyOnline\Server's\Data\Scripts\Script.pdb
+D:\PokemonJourneyOnline\Server's\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Script\obj\Release\Script.dll
+D:\PokemonJourneyOnline\Server's\Server\Script\obj\Release\Script.pdb
+C:\wamp\www\Pokemon Journey Online\Data\Scripts\Script.dll
+C:\wamp\www\Pokemon Journey Online\Data\Scripts\Script.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\Script\obj\Release\Script.dll
+C:\wamp\www\Pokemon Journey Online\Server\Script\obj\Release\Script.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Data\Scripts\Script.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Data\Scripts\Script.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Script\obj\Release\Script.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Script\obj\Release\Script.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Data\Scripts\Script.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Data\Scripts\Script.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Data\Scripts\Script.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Data\Scripts\Script.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Script\obj\Release\Script.pdb

@@ -1,0 +1,80 @@
+[20/09/2014 13:38:47] pernuta: gl mapping!~
+[20/09/2014 13:39:05] pernuta: Not so many trees for a forest :P
+[20/09/2014 13:39:15] Simon: nah
+[20/09/2014 13:39:21] Simon: havent gotten to it yet
+[20/09/2014 13:39:35] Simon: its usually one of the last things i do
+[20/09/2014 13:39:39] Simon: bc fringe
+[20/09/2014 13:39:40] pernuta: oh
+[20/09/2014 13:39:52] pernuta: Also i fixed the login thing
+[20/09/2014 13:40:00] Simon: login thing?
+[20/09/2014 13:40:09] pernuta: It appears Pokemon Journey Online not Pokemon Mystery Universe
+[20/09/2014 13:40:13] pernuta: And it's yellow c:
+[20/09/2014 13:40:15] Simon: oh!!
+[20/09/2014 13:40:25] Simon: i didnt even notice
+[20/09/2014 13:40:28] pernuta: lol
+[20/09/2014 13:40:38] Simon: now all we need is for it to stop saying "__ is new to PMU!"
+[20/09/2014 13:40:47] pernuta: Hmm
+[20/09/2014 13:40:53] Simon: like when u go to town
+[20/09/2014 13:40:55] pernuta: Gonna try to fix that
+[20/09/2014 13:41:00] Simon: good luck o:!
+[20/09/2014 13:42:24] pernuta: I think it's done
+[20/09/2014 13:42:36] pernuta: brb gonna try
+[20/09/2014 13:43:05] Simon: shoot, you spawn here?
+[20/09/2014 13:48:30] pernu: help
+[20/09/2014 13:48:35] pernu: I lost my acc ;-;
+[20/09/2014 13:48:53] Simon: u lost pernuta
+[20/09/2014 13:48:58] pernu: yes
+[20/09/2014 13:49:00] pernu: ;-;
+[20/09/2014 13:49:01] Simon: omg
+[20/09/2014 13:49:07] Simon: i thought draco fixed that
+[20/09/2014 13:49:22] Simon: ummm im not sure if i can make u admin, hold on
+[20/09/2014 13:49:34] pernu: omg my guild "The Cows" is ruied
+[20/09/2014 13:49:36] Simon: nope
+[20/09/2014 13:49:38] pernu: ruined*
+[20/09/2014 13:49:39] pernu: ;-;
+[20/09/2014 13:49:48] pernu: Make me dev till draco comes
+[20/09/2014 13:49:53] Simon: cant
+[20/09/2014 13:50:01] pernu: why?
+[20/09/2014 13:50:06] Simon: it wont let me set ur access
+[20/09/2014 13:50:10] pernu: why?
+[20/09/2014 13:50:15] Simon: it says it's a hacking attempt
+[20/09/2014 13:50:21] pernu: ........
+[20/09/2014 13:50:26] Simon: bruh
+[20/09/2014 13:50:29] pernu: Well
+[20/09/2014 13:50:34] pernu: Going to test dungeons then!
+[20/09/2014 13:58:36] Simon: helo
+[20/09/2014 13:58:37] Frosty2011: hi
+[20/09/2014 13:58:40] Simon: the red tile is the spawn
+[20/09/2014 13:58:43] Frosty2011: ok
+[20/09/2014 13:58:48] Simon: i want it more like. here.
+[20/09/2014 13:58:52] Frosty2011: were u 
+[20/09/2014 13:58:52] Frosty2011: k
+[20/09/2014 13:59:21] Frosty2011: it be somewhere in scripted
+[20/09/2014 13:59:27] Frosty2011: story launcher i think u find
+[20/09/2014 13:59:31] Simon: all right, i'll check
+[20/09/2014 14:00:15] Frosty2011: k 1sec
+[20/09/2014 14:00:50] test: ok
+[20/09/2014 14:00:52] test: hmm
+[20/09/2014 14:02:58] Frosty2011: aggg
+[20/09/2014 14:03:00] Frosty2011: 1sec
+[20/09/2014 14:03:03] Simon: i cant find it
+[20/09/2014 14:05:56] Simon: ...yeah
+[20/09/2014 14:05:59] Simon: cant find it
+[20/09/2014 14:06:05] Frosty2011: hmm
+[20/09/2014 14:06:31] Frosty2011: il speak with pika about it
+[20/09/2014 14:06:44] Simon: k
+[20/09/2014 14:20:05] Simon: hello?
+[20/09/2014 14:20:07] Simon: o
+[20/09/2014 14:20:14] Simon: wb
+[20/09/2014 14:20:17] Tempest: ty
+[20/09/2014 14:37:22] Frosty2011: this is nice
+[20/09/2014 14:37:27] Frosty2011: C:
+[20/09/2014 14:37:33] Simon: i have no idea what to do for the path
+[20/09/2014 14:37:40] Frosty2011: it's nice tho
+[20/09/2014 14:37:45] Simon: ye
+[20/09/2014 15:07:44] Frosty2011: xD
+[20/09/2014 15:07:50] Frosty2011: i nearly did /warptome simon
+[20/09/2014 15:07:51] Frosty2011: D:
+[20/09/2014 15:07:58] Frosty2011: lucky i didn't
+[20/09/2014 15:07:59] Frosty2011: xD
+[20/09/2014 15:25:05] Frosty2011: learnmove 151

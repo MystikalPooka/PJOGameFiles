@@ -1,0 +1,24 @@
+--- 15:20:16 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.Messenger.PlayerWarp(Client client, IMap map, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 544
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 502
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 498
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1375
+Additional Data: Login, sending join game info
+
+--- 15:20:50 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.Messenger.PlayerWarp(Client client, IMap map, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 544
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 502
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 498
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1375
+Additional Data: Login, sending join game info
+
+--- 15:21:41 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.Messenger.PlayerWarp(Client client, IMap map, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 544
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y, Boolean tileCheck) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 502
+   at Server.Network.Messenger.PlayerWarp(Client client, String mapID, Int32 x, Int32 y) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 498
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1375
+Additional Data: Login, sending join game info
+

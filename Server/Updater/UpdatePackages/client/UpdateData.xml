@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Packages>
+    <Package>
+      <ID>KB-A-0000</ID>
+      <Version>12</Version>
+    </Package>
+    <Package>
+      <ID>KB-A-0001</ID>
+      <Version>400</Version>
+      <Prerequisites>
+        <Prerequisite />
+        <ID>KB-A-0000</ID>
+        <Version>12</Version>
+      </Prerequisites>
+    </Package>
+    <Package>
+      <ID>KB-A-0002</ID>
+      <Version>100</Version>
+      <Prerequisites>
+        <Prerequisite />
+        <ID>KB-A-0000</ID>
+        <Version>12</Version>
+        <Prerequisite />
+        <ID>KB-A-0001</ID>
+        <Version>33</Version>
+      </Prerequisites>
+    </Package>
+    <Package>
+      <ID>KB-A-0003</ID>
+      <Version>4</Version>
+      <Prerequisites>
+        <Prerequisite />
+        <ID>KB-A-0000</ID>
+        <Version>12</Version>
+        <Prerequisite />
+        <ID>KB-A-0001</ID>
+        <Version>33</Version>
+      </Prerequisites>
+    </Package>
+  </Packages>
+</Data>

@@ -1,0 +1,126 @@
+--- 14:02:09 ---
+Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at Server.Moves.MoveCollection.get_Item(Int32 index) in d:\PokemonJourneyOnline\Server's\Server\Server\Moves\MoveCollection.cs:line 71
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1021
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 16:26:57 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:11:59 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:14:00 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:21:20 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:22:01 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:23:01 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:24:36 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:25:11 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:27:05 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:31:53 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 20:55:50 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+

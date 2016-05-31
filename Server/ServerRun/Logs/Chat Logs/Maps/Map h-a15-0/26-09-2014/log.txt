@@ -1,0 +1,333 @@
+[26/09/2014 16:46:31] Nami: Trespassing :O
+[26/09/2014 16:46:33] Nami: LOl jk
+[26/09/2014 16:46:39] Nami: oh frosty is here
+[26/09/2014 16:46:42] Nami: Let me ask him
+[26/09/2014 16:51:09] Leavern: ask now o:
+[26/09/2014 16:51:19] Nami: Ok :o
+[26/09/2014 16:51:56] Nami: There i PMED him
+[26/09/2014 16:51:59] Nami: Lea
+[26/09/2014 16:52:04] Nami: your gonna make dungeon right?
+[26/09/2014 16:52:08] Nami: HC
+[26/09/2014 16:52:19] Nami: im gonna make entrance
+[26/09/2014 16:52:29] Leavern: i not make dungeon d:
+[26/09/2014 16:52:35] Nami: then who? xD
+[26/09/2014 16:52:40] Leavern: i can't map d:
+[26/09/2014 16:52:40] Nami: I don't have admin panel
+[26/09/2014 16:52:51] Nami: I told Frosty that you will map dungeon woos lol
+[26/09/2014 16:52:56] Nami: woops*
+[26/09/2014 16:53:15] Leavern: pernuta there not are here d:
+[26/09/2014 16:53:24] Nami: :/
+[26/09/2014 16:53:29] Nami: man i wish he was </3
+[26/09/2014 16:53:49] Nami: is scripter higher then admin?
+[26/09/2014 16:54:46] Nami: only staffs can pass through evolution thing
+[26/09/2014 16:55:00] Leavern: Scripter are higer i guess
+[26/09/2014 16:56:12] Nami: Lea vern
+[26/09/2014 16:56:16] Nami: leavern*
+[26/09/2014 16:56:20] Leavern: ?
+[26/09/2014 16:56:22] Nami: What pokemon do you want to see wild?
+[26/09/2014 16:56:25] Nami: Scyther?
+[26/09/2014 16:56:35] Leavern: ik dx
+[26/09/2014 16:56:38] Leavern: idk
+[26/09/2014 16:56:40] Nami: kk
+[26/09/2014 16:57:56] Nami: LOl
+[26/09/2014 16:57:59] Nami: its a high lvl
+[26/09/2014 16:58:02] Nami: 70-80
+[26/09/2014 16:58:12] Nami: yay
+[26/09/2014 16:59:22] Nami: So beautiful isnt it?
+[26/09/2014 16:59:57] Nami: <3
+[26/09/2014 17:00:10] Nami: Kyun~
+[26/09/2014 17:00:17] KyunKyun: hia~
+[26/09/2014 17:00:23] Nami: Wanna see a a mad scyther stampede?
+[26/09/2014 17:00:28] KyunKyun: lol sur
+[26/09/2014 17:00:58] Nami: <3
+[26/09/2014 17:01:01] KyunKyun: x3
+[26/09/2014 17:01:12] Nami: so awesome
+[26/09/2014 17:01:16] KyunKyun: mhm
+[26/09/2014 17:02:05] Nami: Don't worry
+[26/09/2014 17:02:08] Nami: I blocked them
+[26/09/2014 17:02:08] Nami: :>
+[26/09/2014 17:02:11] KyunKyun: :D
+[26/09/2014 17:02:17] Nami: you need
+[26/09/2014 17:02:20] Nami: an 80 or highe
+[26/09/2014 17:02:23] Nami: higher*
+[26/09/2014 17:02:38] Nami: lvl 76
+[26/09/2014 17:02:49] KyunKyun: i see o-o'
+[26/09/2014 17:03:27] Seven: cucubers ;o;
+[26/09/2014 17:03:30] Seven: cucumbers *
+[26/09/2014 17:03:32] Nami: Ikr
+[26/09/2014 17:03:32] KyunKyun: xD
+[26/09/2014 17:03:44] Nami: there like
+[26/09/2014 17:03:48] Nami: 76 and up
+[26/09/2014 17:03:56] Nami: no recruit?
+[26/09/2014 17:04:01] Seven: im lvl 95 and i have -1%
+[26/09/2014 17:04:04] KyunKyun: where can i post my appliciation on the forums? ;w;
+[26/09/2014 17:04:15] Seven: i think you pm it to the admins o:
+[26/09/2014 17:04:31] Nami: Yay~
+[26/09/2014 17:04:34] Seven: cucumber ;o;
+[26/09/2014 17:04:39] Nami: I have 2 scythers and 1 scizor
+[26/09/2014 17:04:58] Nami: Seven
+[26/09/2014 17:05:00] Nami: Can yo show me
+[26/09/2014 17:05:02] Nami: you*
+[26/09/2014 17:05:07] Seven: ? o:
+[26/09/2014 17:05:14] Nami: Where to put the Wild pokemon in a spot i want to put it in
+[26/09/2014 17:05:19] Nami: Its always over there
+[26/09/2014 17:05:29] Seven: set the x/y coordinates
+[26/09/2014 17:05:38] Seven: do /locon
+[26/09/2014 17:05:46] Seven: and go to the spot you want them to be in
+[26/09/2014 17:05:53] Seven: and put those coordinates in the X/Y thing
+[26/09/2014 17:06:14] Nami: wheres the X/Y cordinate thing?
+[26/09/2014 17:06:16] Nami: ON NPC?
+[26/09/2014 17:06:18] Nami: On*
+[26/09/2014 17:06:37] Seven: yep
+[26/09/2014 17:06:42] Seven: should say spawn x and spawn y
+[26/09/2014 17:06:50] Nami: ya i see
+[26/09/2014 17:07:23] Nami: ya i see it But What are the numbers for it?
+[26/09/2014 17:07:30] Seven: do  /locon
+[26/09/2014 17:07:36] Seven: and go where you want them to be
+[26/09/2014 17:07:49] Seven: it should say the X/Y coordinates in the top corner
+[26/09/2014 17:08:24] Nami: where do i type /locon?
+[26/09/2014 17:08:35] Seven: in the chat
+[26/09/2014 17:13:51] Nami: ty now i know
+[26/09/2014 17:14:01] Seven: no problem c:
+[26/09/2014 17:14:08] Nami: lvl 95
+[26/09/2014 17:14:14] Seven: o:
+[26/09/2014 17:14:19] Nami: go recruit~
+[26/09/2014 17:14:36] Nami: yay~
+[26/09/2014 17:21:04] Clockwork: oKAY>>>>
+[26/09/2014 17:21:35] Nami: Horsea <3
+[26/09/2014 17:22:39] Clockwork: Lol hold on
+[26/09/2014 17:22:45] Nami: Im jk lol
+[26/09/2014 17:22:47] Nami: I made this
+[26/09/2014 17:22:51] Nami: :>
+[26/09/2014 17:23:03] Clockwork: dammit i wanted to cause an earthquake
+[26/09/2014 17:23:11] Nami: DONT YOU DARE
+[26/09/2014 17:23:15] Nami: Or its TC for u
+[26/09/2014 17:23:21] Nami: these are my babys
+[26/09/2014 17:23:47] Nami: run my babys run!
+[26/09/2014 17:23:48] Nami: <3
+[26/09/2014 17:23:56] Clockwork: :/
+[26/09/2014 17:25:08] Nami: Mauaahaha
+[26/09/2014 17:26:15] Nami: <3
+[26/09/2014 17:26:20] Nami: MY BABYS
+[26/09/2014 17:26:53] Clockwork: XD  well
+[26/09/2014 17:27:34] Nami: Muahaha
+[26/09/2014 17:27:36] Nami: My army
+[26/09/2014 17:28:14] Nami: swablu is lvl 100 
+[26/09/2014 17:28:16] Nami: <3
+[26/09/2014 17:28:31] Clockwork: o.O
+[26/09/2014 17:28:40] Nami: run free my babys!
+[26/09/2014 17:28:42] Nami: FREE
+[26/09/2014 17:28:57] Nami: bad baby
+[26/09/2014 17:29:22] Nami: N
+[26/09/2014 17:29:24] Nami: O
+[26/09/2014 17:29:27] Nami: :<
+[26/09/2014 17:29:33] Nami: clock you monster
+[26/09/2014 17:29:40] Clockwork: what i do?
+[26/09/2014 17:29:46] Nami: my babys are all gone
+[26/09/2014 17:29:52] Nami: thats settles it
+[26/09/2014 17:33:11] Leavern: lol
+[26/09/2014 17:33:31] Nami: Hi my babys!
+[26/09/2014 17:33:39] Nami: they get mad
+[26/09/2014 17:33:45] Nami: when they see other ppl
+[26/09/2014 17:33:50] Nami: they don't like you
+[26/09/2014 17:33:51] Nami: Sorry~
+[26/09/2014 17:33:52] KyunKyun: lol
+[26/09/2014 17:33:58] KyunKyun: well anyways i gtg
+[26/09/2014 17:34:01] KyunKyun: o3o
+[26/09/2014 17:34:04] Nami: MY BABYS
+[26/09/2014 17:34:06] Nami: :<
+[26/09/2014 17:34:08] KyunKyun: byeh
+[26/09/2014 17:34:09] Leavern: awwthe got mad :c
+[26/09/2014 17:34:09] Nami: GET OUT
+[26/09/2014 17:34:48] Nami: NO
+[26/09/2014 17:34:51] Nami: MY BABYS
+[26/09/2014 17:34:52] Nami: :<
+[26/09/2014 17:34:56] Leavern: o.o
+[26/09/2014 17:35:01] Nami: YAY GO BABYS!
+[26/09/2014 17:35:06] Leavern: xD
+[26/09/2014 17:35:06] Nami: Just how your momma taught you
+[26/09/2014 17:35:07] Nami: ;)
+[26/09/2014 17:40:21] Nami: Attack!
+[26/09/2014 17:40:58] Nami: you can fight them with hunt on
+[26/09/2014 17:41:01] Nami: there lvl 50
+[26/09/2014 17:41:19] Leavern: your babys o.o
+[26/09/2014 17:41:51] Nami: Yes
+[26/09/2014 17:41:52] Nami: :<
+[26/09/2014 17:41:54] Seven: what
+[26/09/2014 17:41:58] Nami: Seven
+[26/09/2014 17:42:03] Nami: my babys grew up
+[26/09/2014 17:42:04] Nami: ;D
+[26/09/2014 17:42:36] Nami: put hunt on~
+[26/09/2014 17:42:55] Nami: i trained my babys well
+[26/09/2014 17:43:11] Nami: CHEATER
+[26/09/2014 17:43:14] Nami: PUT HUNT ON
+[26/09/2014 17:43:22] Leavern: i have it on xD
+[26/09/2014 17:43:25] Nami: Sure
+[26/09/2014 17:43:30] Nami: why arent they attackin
+[26/09/2014 17:43:38] Nami: put hunt on man
+[26/09/2014 17:43:44] Nami: there lvl 50
+[26/09/2014 17:45:39] Nami: wow
+[26/09/2014 17:45:44] Nami: thats was only like 5
+[26/09/2014 17:45:50] Nami: So doesn't count
+[26/09/2014 17:45:52] Nami: :<
+[26/09/2014 17:45:54] Leavern: Cow Power op xD
+[26/09/2014 17:46:01] Nami: Hmm
+[26/09/2014 17:46:06] Leavern: Custome maded move d:
+[26/09/2014 17:47:02] Nami: Nuh
+[26/09/2014 17:47:11] Nami: I want 20 regice :<
+[26/09/2014 17:47:45] Seven: rood
+[26/09/2014 17:48:10] Nami: r0000d
+[26/09/2014 17:48:13] Nami: :<
+[26/09/2014 17:48:15] Seven: RIP >C
+[26/09/2014 17:49:00] Seven: who warped kelo o:
+[26/09/2014 17:49:10] Nami: Idk :o
+[26/09/2014 17:49:17] Nami: put hunt on :<
+[26/09/2014 17:49:22] Seven: noh:<
+[26/09/2014 17:49:28] Nami: fight my army
+[26/09/2014 17:49:30] Nami: :D
+[26/09/2014 17:49:33] Seven: noh :<
+[26/09/2014 17:49:38] Nami: when we have players
+[26/09/2014 17:49:43] Seven: ill be murdered
+[26/09/2014 17:49:45] Nami: this is what im gonna do
+[26/09/2014 17:50:01] Nami: pfft
+[26/09/2014 17:50:14] Seven: kitty is only 24 :<
+[26/09/2014 17:50:18] Nami: HAHAH
+[26/09/2014 17:50:36] Seven: BURN
+[26/09/2014 17:51:30] Seven: good
+[26/09/2014 17:51:35] Nami: Leavern/Leavern
+[26/09/2014 17:51:35] Seven: all statused
+[26/09/2014 17:51:37] Nami: lol
+[26/09/2014 17:52:34] Leavern: Nami
+[26/09/2014 17:52:50] Leavern: Pernuta will get on when he got the claint 
+[26/09/2014 17:53:02] Leavern: hopefull
+[26/09/2014 17:53:05] Nami: what client?
+[26/09/2014 17:53:13] Nami: the new one?
+[26/09/2014 17:53:14] Leavern: PJO claint
+[26/09/2014 17:53:15] Nami: this one?
+[26/09/2014 17:53:22] Leavern: yea d:
+[26/09/2014 17:53:27] Nami: he already has i
+[26/09/2014 17:53:29] Nami: it*
+[26/09/2014 17:53:30] Seven: doesnt he have it ? o.o
+[26/09/2014 17:53:37] Nami: Hes the one who made custon client
+[26/09/2014 17:53:44] Leavern: he got problems so tryed to reinstall i guess
+[26/09/2014 17:53:53] Nami: how do you know this?
+[26/09/2014 17:54:02] Leavern: i have him on skype?
+[26/09/2014 17:54:08] Nami: O kk
+[26/09/2014 17:54:15] Nami: r00d
+[26/09/2014 17:55:55] Nami: Omg
+[26/09/2014 17:55:57] Nami: Killers
+[26/09/2014 17:55:58] Nami: :<
+[26/09/2014 17:56:12] Seven: RIP :<
+[26/09/2014 17:56:18] Nami: Hmm What pokemon has VERY good Sp defense and defense/
+[26/09/2014 17:56:26] Seven: wailord
+[26/09/2014 17:56:32] Seven: idk:<
+[26/09/2014 17:56:35] Leavern: blissey have the best d:
+[26/09/2014 17:56:39] Nami: lol
+[26/09/2014 17:56:42] Nami: ill try
+[26/09/2014 17:56:45] Nami: wailgod
+[26/09/2014 17:57:17] Nami: No NPC has wailord :<
+[26/09/2014 17:57:23] Seven: :<
+[26/09/2014 17:57:47] Nami: fim stcuk lol
+[26/09/2014 17:57:50] Leavern: go to the Arena!
+[26/09/2014 17:58:02] Nami: yay arena~
+[26/09/2014 17:58:04] Nami: Lets go!~
+[26/09/2014 17:58:10] Moeru: im actually gonna remap the jail abit QQ
+[26/09/2014 17:58:15] Seven: o:
+[26/09/2014 17:58:33] Moeru: make it more like the future on pmd sky darkness and time
+[26/09/2014 17:58:37] Moeru: all gray and stuff
+[26/09/2014 17:58:41] Moeru: spoopy
+[26/09/2014 17:58:49] Seven: very spoopy
+[26/09/2014 21:12:48] Nami: seven
+[26/09/2014 21:12:57] Nami: where do you start to make a dungeon?
+[26/09/2014 21:13:13] Seven: you'd have to make one in the dungeon editor
+[26/09/2014 21:13:32] Seven: i dont really make dungeons though, i dont know how to do them well
+[26/09/2014 21:13:38] Nami: :o
+[26/09/2014 21:13:44] Seven: im still learning ;;'
+[26/09/2014 21:13:49] Nami: so admin panel
+[26/09/2014 21:13:54] Nami: edit dungeon?
+[26/09/2014 21:14:04] Seven: mhm and find a blank spot
+[26/09/2014 21:14:19] Nami: k done
+[26/09/2014 21:14:36] Nami: press new?
+[26/09/2014 21:14:52] Seven: no go all the way to the end
+[26/09/2014 21:15:03] Nami: oh ok
+[26/09/2014 21:15:06] Seven: and edit one of the blank ones
+[26/09/2014 21:15:11] Seven: that are ---
+[26/09/2014 21:15:17] Nami: mh
+[26/09/2014 21:15:21] Nami: mhm*
+[26/09/2014 21:15:32] Seven: after that i cant help you ;;;'
+[26/09/2014 21:15:56] Nami: K
+[26/09/2014 21:16:00] Nami: im gona try :o
+[26/09/2014 21:16:08] Seven: oki o:
+[26/09/2014 21:18:17] pernuta: omg
+[26/09/2014 21:18:21] pernuta: How did i get here
+[26/09/2014 21:18:22] pernuta: D:
+[26/09/2014 21:18:28] Nami: Me~
+[26/09/2014 21:18:31] pernuta: oh lol
+[26/09/2014 21:18:37] Nami: I told frosty if i can make a dungeon in my house
+[26/09/2014 21:18:40] Nami: he said yes
+[26/09/2014 21:18:44] Nami: So i was thinking
+[26/09/2014 21:18:50] Nami: How do you start?
+[26/09/2014 21:19:04] pernuta: go to admin panel
+[26/09/2014 21:19:09] Nami:  k~
+[26/09/2014 21:19:13] pernuta: commands
+[26/09/2014 21:19:23] pernuta: edit r dungeons
+[26/09/2014 21:19:31] Nami: mhm
+[26/09/2014 21:19:44] pernuta: edit number 10
+[26/09/2014 21:19:47] pernuta: rindu test dungeon
+[26/09/2014 21:19:52] pernuta: It's not usefull anymore
+[26/09/2014 21:19:54] pernuta: o:
+[26/09/2014 21:20:02] Nami: What do i click next?
+[26/09/2014 21:20:06] Nami: edit?
+[26/09/2014 21:20:08] pernuta: First
+[26/09/2014 21:20:10] pernuta: Yep
+[26/09/2014 21:20:21] pernuta: then change it's name
+[26/09/2014 21:20:24] pernuta: and floors
+[26/09/2014 21:20:28] pernuta: Any you want~
+[26/09/2014 21:20:43] pernuta: then get to floors
+[26/09/2014 21:20:43] Nami: Ok
+[26/09/2014 21:20:48] Nami: theres something
+[26/09/2014 21:20:51] Nami: that says
+[26/09/2014 21:20:53] pernuta: click on that button
+[26/09/2014 21:21:02] Nami: structure etc...
+[26/09/2014 21:21:07] pernuta: uhh gtg...
+[26/09/2014 21:21:08] pernuta: :(
+[26/09/2014 21:21:10] Nami: whuch do i click
+[26/09/2014 21:21:11] Nami: D:
+[26/09/2014 21:21:18] pernuta: Try looking at them
+[26/09/2014 21:21:22] pernuta: Maybe you will figure out
+[26/09/2014 21:21:24] pernuta: sry
+[26/09/2014 21:21:26] pernuta: bye!~
+[26/09/2014 21:32:54] Nami: Kelo
+[26/09/2014 21:32:58] Nami: Are you there?
+[26/09/2014 21:32:58] Kelo: Nami
+[26/09/2014 21:33:04] Kelo: Mhm
+[26/09/2014 21:33:33] Nami: Ok i have made a dungeon but i dont know how to put the dungeon entrance Like forexample Will you like to go to  ...... Dungeon?
+[26/09/2014 21:33:39] Nami: Go to admin panel
+[26/09/2014 21:33:43] Nami: commands
+[26/09/2014 21:33:45] Kelo: Which dungeon?
+[26/09/2014 21:33:49] Nami: edit random dungeon
+[26/09/2014 21:33:54] Nami: Look for number 10
+[26/09/2014 21:33:58] Nami: It should be there
+[26/09/2014 21:34:17] Nami: Nami's Nightmares
+[26/09/2014 21:34:29] Kelo: May i map for a second?
+[26/09/2014 21:34:34] Nami: sure
+[26/09/2014 21:35:45] Kelo: how many floors is it?
+[26/09/2014 21:35:55] Nami: 5
+[26/09/2014 21:36:17] Nami: my dungeon is gonna kill some staffs if you have hunt on~
+[26/09/2014 21:36:33] Nami: But only staffs can go to my dungeon
+[26/09/2014 21:36:35] Nami: No players
+[26/09/2014 21:36:38] Nami: :>
+[26/09/2014 21:38:12] Kelo: whoops
+[26/09/2014 21:38:23] Nami: :o
+[26/09/2014 21:38:29] Nami: Hmm
+[26/09/2014 21:38:50] Nami: i think the thing is that i didn't map the inside :/
+[26/09/2014 21:39:11] Nami: hmm can you help with that?
+[26/09/2014 21:39:34] Kelo: Of the dungeon?
+[26/09/2014 21:39:42] Nami: ya from inside
+[26/09/2014 21:42:53] Kelo: Somethings wrong with your dungeon :/
+[26/09/2014 21:42:59] Nami: ya
+[26/09/2014 21:43:02] Nami: Frosty is coming
+[26/09/2014 21:43:08] Nami: Lets explain to him?
+[26/09/2014 21:43:09] Kelo: May i look at it?
+[26/09/2014 21:43:24] Nami: mhm
+[26/09/2014 21:47:01] Nami: Hmm

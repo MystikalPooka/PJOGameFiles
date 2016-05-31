@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+   <Package>
+      <Name>Client Skins Update</Name>
+      <Description>An update for the skins included with the client.</Description>
+   </Package>
+</Configuration>

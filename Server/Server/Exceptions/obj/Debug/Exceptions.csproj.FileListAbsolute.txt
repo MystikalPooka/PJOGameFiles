@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Exceptions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Exceptions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Debug\Server.Exceptions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Debug\Server.Exceptions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Build\Server.Exceptions.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Exceptions.pdb
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Debug\Server.Exceptions.dll
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Debug\Server.Exceptions.pdb

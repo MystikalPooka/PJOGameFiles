@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A81FCDE3-A996-4BCA-A833-4727A37B4268}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PMDCP.Updater</RootNamespace>
+    <AssemblyName>Updater</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compression\Zip\ComHelper.cs" />
+    <Compile Include="Compression\Zip\EncryptionAlgorithm.cs" />
+    <Compile Include="Compression\Zip\Events.cs" />
+    <Compile Include="Compression\Zip\Exceptions.cs" />
+    <Compile Include="Compression\Zip\ExtractExistingFileAction.cs" />
+    <Compile Include="Compression\Zip\FileSelector.cs" />
+    <Compile Include="Compression\Zip\OffsetStream.cs" />
+    <Compile Include="Compression\Zip\Shared.cs" />
+    <Compile Include="Compression\Zip\WinZipAes.cs" />
+    <Compile Include="Compression\Zip\ZipConstants.cs" />
+    <Compile Include="Compression\Zip\ZipCrypto.cs" />
+    <Compile Include="Compression\Zip\ZipDirEntry.cs" />
+    <Compile Include="Compression\Zip\ZipEntry.cs" />
+    <Compile Include="Compression\Zip\ZipEntry.Extract.cs" />
+    <Compile Include="Compression\Zip\ZipEntry.Read.cs" />
+    <Compile Include="Compression\Zip\ZipEntry.Write.cs" />
+    <Compile Include="Compression\Zip\ZipEntrySource.cs" />
+    <Compile Include="Compression\Zip\ZipErrorAction.cs" />
+    <Compile Include="Compression\Zip\ZipFile.AddUpdate.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Check.cs" />
+    <Compile Include="Compression\Zip\ZipFile.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Events.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Extract.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Read.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Save.cs" />
+    <Compile Include="Compression\Zip\ZipFile.SaveSelfExtractor.cs" />
+    <Compile Include="Compression\Zip\ZipFile.Selector.cs" />
+    <Compile Include="Compression\Zip\ZipFile.x-IEnumerable.cs" />
+    <Compile Include="Compression\Zip\ZipInputStream.cs" />
+    <Compile Include="Compression\Zip\ZipOutputStream.cs" />
+    <Compile Include="Compression\Zip\ZipSegmentedStream.cs" />
+    <Compile Include="Compression\Zlib\Crc32.cs" />
+    <Compile Include="Compression\Zlib\Deflate.cs" />
+    <Compile Include="Compression\Zlib\DeflateStream.cs" />
+    <Compile Include="Compression\Zlib\GZipStream.cs" />
+    <Compile Include="Compression\Zlib\Inflate.cs" />
+    <Compile Include="Compression\Zlib\InfTree.cs" />
+    <Compile Include="Compression\Zlib\ParallelDeflateOutputStream.cs" />
+    <Compile Include="Compression\Zlib\Tree.cs" />
+    <Compile Include="Compression\Zlib\Zlib.cs" />
+    <Compile Include="Compression\Zlib\ZlibBaseStream.cs" />
+    <Compile Include="Compression\Zlib\ZlibCodec.cs" />
+    <Compile Include="Compression\Zlib\ZlibConstants.cs" />
+    <Compile Include="Compression\Zlib\ZlibStream.cs" />
+    <Compile Include="FileDownload.cs" />
+    <Compile Include="FileDownloader.cs" />
+    <Compile Include="InstalledPackageInfo.cs" />
+    <Compile Include="Math.cs" />
+    <Compile Include="PackageDownloadStartEventArgs.cs" />
+    <Compile Include="PackageFileList.cs" />
+    <Compile Include="PackageFileListItem.cs" />
+    <Compile Include="PackageInfo.cs" />
+    <Compile Include="PackageInstallationCompleteEventArgs.cs" />
+    <Compile Include="PackageInstaller.cs" />
+    <Compile Include="PackageLoader.cs" />
+    <Compile Include="PackageUninstaller.cs" />
+    <Compile Include="Security\Encryption.cs" />
+    <Compile Include="UpdateCheckResult.cs" />
+    <Compile Include="UpdateClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UpdaterLinker\Updater.Linker.csproj">
+      <Project>{02277808-CD1A-4E3B-85C0-3D8538D196B5}</Project>
+      <Name>Updater.Linker</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

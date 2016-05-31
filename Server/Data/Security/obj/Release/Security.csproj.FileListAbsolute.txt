@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Pizu\Desktop\server\server\Build\Server.Security.dll
+C:\Users\Pizu\Desktop\server\server\Build\Server.Security.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\Pizu\Desktop\server\server\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Security.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Data\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Data\Security\obj\Release\Server.Security.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Data\Security\obj\Release\Server.Security.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Security.pdb

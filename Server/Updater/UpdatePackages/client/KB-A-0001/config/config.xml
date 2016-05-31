@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+   <Package>
+      <Name>KB-A-0001</Name>
+      <Description>An update for the MDX client. This update provides bug fixes, optimizations, and new features.</Description>
+   </Package>
+</Configuration>

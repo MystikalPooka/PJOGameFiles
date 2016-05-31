@@ -1,0 +1,399 @@
+--- 10:52:33 ---
+Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at Server.Moves.MoveCollection.get_Item(Int32 index) in d:\PokemonJourneyOnline\Server's\Server\Server\Moves\MoveCollection.cs:line 71
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1021
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 13:17:39 ---
+Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at Server.Moves.MoveCollection.get_Item(Int32 index) in d:\PokemonJourneyOnline\Server's\Server\Server\Moves\MoveCollection.cs:line 71
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1021
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 13:17:40 ---
+Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at Server.Moves.MoveCollection.get_Item(Int32 index) in d:\PokemonJourneyOnline\Server's\Server\Server\Moves\MoveCollection.cs:line 71
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1021
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 14:52:41 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 14:52:55 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:00:14 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:00:18 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:00:55 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:20 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:28 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:31 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:31 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:32 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:34 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:34 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:35 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:43 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:44 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:05:50 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:07:07 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:07:11 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 435
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:35:51 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 436
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:35:51 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:35:52 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:35:53 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:35:53 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:36:17 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.Maps.BasicMap.SpawnNpcs() in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 436
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 2277
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:36:18 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:36:19 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:36:19 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:36:20 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.Math.Rand(Int32 low, Int32 high) in d:\PokemonJourneyOnline\Server's\Server\Core\Math.cs:line 54
+   at Server.Maps.BasicMap.SpawnNpc(MapNpcPreset npc, Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 329
+   at Server.Maps.BasicMap.SpawnNpc(Boolean checkSight) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\BasicMap.cs:line 245
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 278
+Additional Data: MapAIProcessor
+
+--- 15:51:16 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Combat.MoveProcessor.GetTargetsInRange(MoveRange rangeType, Int32 range, IMap map, ICharacter user, Int32 userX, Int32 userY, Direction userDir, Boolean hitsFoes, Boolean hitsAllies, Boolean hitsSelf) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\MoveProcessor.cs:line 234
+   at Server.Combat.BattleProcessor.ExecuteAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2110
+   at Server.Combat.BattleProcessor.HandleAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2069
+   at Server.Players.Recruit.UseMove(Int32 moveSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 668
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 570
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:51:19 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Combat.MoveProcessor.GetTargetsInRange(MoveRange rangeType, Int32 range, IMap map, ICharacter user, Int32 userX, Int32 userY, Direction userDir, Boolean hitsFoes, Boolean hitsAllies, Boolean hitsSelf) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\MoveProcessor.cs:line 234
+   at Server.Combat.BattleProcessor.ExecuteAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2110
+   at Server.Combat.BattleProcessor.HandleAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2069
+   at Server.Players.Recruit.UseMove(Int32 moveSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 668
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 570
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:51:21 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Combat.MoveProcessor.GetTargetsInRange(MoveRange rangeType, Int32 range, IMap map, ICharacter user, Int32 userX, Int32 userY, Direction userDir, Boolean hitsFoes, Boolean hitsAllies, Boolean hitsSelf) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\MoveProcessor.cs:line 485
+   at Server.Combat.BattleProcessor.ExecuteAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2110
+   at Server.Combat.BattleProcessor.HandleAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2069
+   at Server.Players.Recruit.UseMove(Int32 moveSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 668
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 570
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:51:23 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Combat.MoveProcessor.GetTargetsInRange(MoveRange rangeType, Int32 range, IMap map, ICharacter user, Int32 userX, Int32 userY, Direction userDir, Boolean hitsFoes, Boolean hitsAllies, Boolean hitsSelf) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\MoveProcessor.cs:line 655
+   at Server.Combat.BattleProcessor.ExecuteAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2110
+   at Server.Combat.BattleProcessor.HandleAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2069
+   at Server.Players.Recruit.UseMove(Int32 moveSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 668
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 570
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 15:51:24 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Combat.MoveProcessor.GetTargetsInRange(MoveRange rangeType, Int32 range, IMap map, ICharacter user, Int32 userX, Int32 userY, Direction userDir, Boolean hitsFoes, Boolean hitsAllies, Boolean hitsSelf) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\MoveProcessor.cs:line 655
+   at Server.Combat.BattleProcessor.ExecuteAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2110
+   at Server.Combat.BattleProcessor.HandleAttack(BattleSetup setup) in d:\PokemonJourneyOnline\Server's\Server\Server\Combat\BattleProcessor.cs:line 2069
+   at Server.Players.Recruit.UseMove(Int32 moveSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 668
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 570
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 16:50:28 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.AI.MapAIProcessingTask.ProcessAI() in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MapAIProcessingTask.cs:line 113
+Additional Data: MapAIProcessor
+
+--- 23:36:12 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Players.Recruit.SetSpecies(Int32 species) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 617
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3456
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

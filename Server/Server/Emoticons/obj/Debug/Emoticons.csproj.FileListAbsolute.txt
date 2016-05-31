@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Emoticons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Emoticons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Server.Emoticons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Server.Emoticons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Emoticons.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Build\Server.Emoticons.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Emoticons.pdb
+D:\PokemonJourneyOnline\Server's\Server\Emoticons\obj\Debug\Emoticons.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Emoticons\obj\Debug\Server.Emoticons.dll
+D:\PokemonJourneyOnline\Server's\Server\Emoticons\obj\Debug\Server.Emoticons.pdb

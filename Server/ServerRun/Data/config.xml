@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+	<Settings>
+		<GamePort>25565</GamePort>
+		<DatabaseIP>localhost</DatabaseIP>
+		<DatabasePort>3306</DatabasePort>
+		<DatabaseUser>root</DatabaseUser>
+		<DatabasePassword>Dragonxd9011</DatabasePassword>
+	</Settings>
+</Data>

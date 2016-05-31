@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.IO.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.IO.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Debug\Server.IO.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Debug\Server.IO.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Build\Server.IO.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.IO.pdb
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Debug\Server.IO.dll
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Debug\Server.IO.pdb

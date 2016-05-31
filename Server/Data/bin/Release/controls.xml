@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls>
+  <Movement>
+    <Up>273</Up>
+    <Down>274</Down>
+    <Left>276</Left>
+    <Right>275</Right>
+    <Turn>278</Turn>
+    <Run>304</Run>
+  </Movement>
+  <Attacking>
+    <StandardAttack>102</StandardAttack>
+  </Attacking>
+</Controls>

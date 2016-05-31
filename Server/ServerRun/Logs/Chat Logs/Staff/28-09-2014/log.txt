@@ -1,0 +1,176 @@
+[28/09/2014 13:10:41] IP: 192.168.0.1 Mac: 54271E5E434B attempted to log on, but was banned.
+[28/09/2014 13:55:42] Mei: Wb mami~
+[28/09/2014 13:55:50] Moeru: thank you!
+[28/09/2014 14:00:53] Azalea: Girls
+[28/09/2014 14:01:08] Azalea: wc
+[28/09/2014 14:01:11] pernuta: and boys </3
+[28/09/2014 14:01:18] Azalea: That was meant for the guild
+[28/09/2014 14:01:34] pernuta: okey sry
+[28/09/2014 14:01:50] pernuta: mei not a thing
+[28/09/2014 14:02:33] Mei: im a something, not a thing
+[28/09/2014 14:02:53] pernuta: was talking about moe
+[28/09/2014 14:03:01] pernuta: not a "thing"
+[28/09/2014 14:03:01] Mei: Moe's genderfluid
+[28/09/2014 14:03:08] pernuta: i know o-o
+[28/09/2014 14:03:18] Mei: Moe prefers to be called a thing, ok?
+[28/09/2014 14:03:23] Mei: shhhhhhhh
+[28/09/2014 14:03:29] Moeru: as a joke yes
+[28/09/2014 14:03:34] pernuta: i though only they them D:
+[28/09/2014 14:03:46] Moeru: yes if normally talk, yes <3
+[28/09/2014 14:04:14] Mei: we are all a thing
+[28/09/2014 14:04:18] Moeru: but i tend to joke and be like *presses face against youurs* im a THING *waves genderfluid flab*
+[28/09/2014 14:06:44] pernuta: gonna start working
+[28/09/2014 14:06:52] pernuta: pm me on skype if  u want anything!
+[28/09/2014 14:13:04] Azalea: OH GOSH
+[28/09/2014 14:13:13] Nami: O.O
+[28/09/2014 14:13:15] Azalea: How dar eyou >c
+[28/09/2014 14:13:18] Nami: :<
+[28/09/2014 14:13:26] Tempest: :(
+[28/09/2014 14:13:30] Nami: Punishment! move!
+[28/09/2014 14:13:34] Nami: -attacks-
+[28/09/2014 14:13:34] Tempest: ok
+[28/09/2014 14:13:37] Mei: *stares intently at it*
+[28/09/2014 14:13:44] Nami: Muahaha
+[28/09/2014 14:14:10] Tempest: I DIDNT DO ANYTHING!!
+[28/09/2014 14:14:13] Mei: omg wut
+[28/09/2014 14:14:14] Tempest: Don't blame me!
+[28/09/2014 14:14:22] Azalea: Don't worry, I know what it is.
+[28/09/2014 14:15:22] Tempest: omg man
+[28/09/2014 14:15:29] Mei: is scared
+[28/09/2014 14:15:30] Tempest: who reads things like that
+[28/09/2014 14:15:38] Azalea: Being fixed now.
+[28/09/2014 14:15:42] Nami: its my nightmares :>
+[28/09/2014 14:15:58] Kelo: your dungeon is broken again?
+[28/09/2014 14:16:06] Nami: Azalea is fixing
+[28/09/2014 14:16:14] Kelo: what happned this time?
+[28/09/2014 14:16:22] Azalea: There's no dungeon working.
+[28/09/2014 14:16:49] Azalea: It's her dungeon, don't worry
+[28/09/2014 14:17:11] Azalea: We're fixing it!
+[28/09/2014 14:17:12] Kelo: What did you add or change since i last looked at it?
+[28/09/2014 14:17:41] Nami: Don't worry kelo
+[28/09/2014 14:17:56] Tempest: I just want to click on a Broznong and read what it says, please!
+[28/09/2014 14:18:08] Nami: k~
+[28/09/2014 14:18:09] Tempest: omg no bronzong not recruitable
+[28/09/2014 14:18:12] Mei: I'm scared of that black text.
+[28/09/2014 14:18:20] Nami: lol mei
+[28/09/2014 14:18:30] Azalea: Try pernuta.
+[28/09/2014 14:18:32] Tempest: [c][-1]dad[/c]
+[28/09/2014 14:18:38] Azalea: I'm editing some parts of her dungeon
+[28/09/2014 14:18:54] pernuta: wait let me see
+[28/09/2014 14:19:14] pernuta: yep it's her dungeon
+[28/09/2014 14:19:15] Azalea: Oh gosh.
+[28/09/2014 14:19:19] Azalea: THis glitch again
+[28/09/2014 14:19:39] Tempest: [c][1331]Script.DungreonRules.StartRDungeon(Client clientString param1, String param2, String param3) in d:pokeomonjourneryonline/server's/serverrun/script/dungeonrules.cs:line678[/c]
+[28/09/2014 14:19:57] pernuta: tempest u nub
+[28/09/2014 14:19:58] Kelo: Last time that happned whenver i removed an item it worked again
+[28/09/2014 14:20:22] Tempest: wow
+[28/09/2014 14:20:55] Nami: On it!
+[28/09/2014 14:27:12] Moeru: send mi to jail plso
+[28/09/2014 14:41:02] Nami: :<
+[28/09/2014 14:41:39] pernuta: LOL
+[28/09/2014 14:41:44] pernuta: FAKE
+[28/09/2014 14:41:53] pernuta: WHO IS THIS FAKE
+[28/09/2014 14:41:55] pernuta: KILL IT
+[28/09/2014 14:41:57] Nami: Woah woah woah
+[28/09/2014 14:42:02] Mei: Chillaz
+[28/09/2014 14:42:07] Mei: chillax*
+[28/09/2014 14:42:09] Nami: its tempest :<
+[28/09/2014 14:42:19] pernuta: ur not a good liar nami
+[28/09/2014 14:42:33] Nami: xD
+[28/09/2014 14:42:58] Nami: frosty impersinating me before 
+[28/09/2014 14:43:00] Mei: Wb Kelo
+[28/09/2014 14:43:01] Nami: I was so sad
+[28/09/2014 14:43:58] Kelo: Thanks
+[28/09/2014 14:44:10] pernuta: wb kelo!
+[28/09/2014 14:44:17] Nami: wb c:
+[28/09/2014 14:44:22] Kelo: thanks o:
+[28/09/2014 14:47:19] Nami: Woah Woah Woah Woah
+[28/09/2014 14:47:22] Nami: Guys
+[28/09/2014 14:47:44] Nami: I just bought a beginner band to train and look at my stats now!
+[28/09/2014 14:47:54] Nami: pernuta
+[28/09/2014 14:47:57] Nami: Come check this out
+[28/09/2014 14:48:01] Nami: warp to me
+[28/09/2014 14:54:17] Azalea: Thanks
+[28/09/2014 14:54:35] pernuta: wb
+[28/09/2014 14:54:35] Tempest: wb
+[28/09/2014 14:54:38] Azalea: Thanks
+[28/09/2014 14:55:22] Nami: Wb!
+[28/09/2014 14:58:21] Nami: Wb Mei!
+[28/09/2014 14:58:28] Mei: Sankyu~
+[28/09/2014 15:03:12] Mei: w=
+[28/09/2014 15:03:15] Mei: wc
+[28/09/2014 15:39:42] Seven: wb mei
+[28/09/2014 15:39:54] Mei: Sankyu
+[28/09/2014 15:40:00] Nami: wb seven~
+[28/09/2014 15:40:05] Nami: and Mei~
+[28/09/2014 15:40:24] Mei: Sankyu~
+[28/09/2014 15:40:28] Seven: wb pernuta 
+[28/09/2014 15:40:32] pernuta: ty!
+[28/09/2014 15:40:46] Mei: Wb pern o:
+[28/09/2014 15:40:51] pernuta: ty!
+[28/09/2014 15:46:18] Mei: Wb Nami~
+[28/09/2014 15:47:12] Nami: Arigato c;
+[28/09/2014 15:47:19] Nami: thank you in Japanese XD
+[28/09/2014 15:47:29] Mei: I know x3 I know a little Japanese
+[28/09/2014 15:47:39] Nami: Im from Japan <3
+[28/09/2014 15:47:39] pernuta: i was gonna say don't talk spanish to me lol
+[28/09/2014 15:47:47] Nami: Finally someone who speaks my language
+[28/09/2014 15:47:49] Mei: :O
+[28/09/2014 15:48:06] Mei: I'm asian too but not from Japan ;w;
+[28/09/2014 15:48:18] Nami: I'm on vacation on new york
+[28/09/2014 15:48:27] Mei: For how long? o:
+[28/09/2014 15:48:29] Nami: Im leaving to tokyo in about a month or 2
+[28/09/2014 15:48:43] Mei: Ah I see. Hope you ejoy your vacay xD
+[28/09/2014 15:48:52] Nami: Now time to edit frosty's house Lol
+[28/09/2014 15:48:55] Nami: ty c:
+[28/09/2014 15:49:03] Moeru: can someone make me mod again
+[28/09/2014 15:49:22] Moeru: thanks
+[28/09/2014 15:53:29] Mei: Wb pern O:
+[28/09/2014 15:53:42] pernuta: ty
+[28/09/2014 16:35:28] Mei: Wb pern
+[28/09/2014 17:06:15] Kelo: Wb
+[28/09/2014 18:37:16] Kelo: thanks
+[28/09/2014 18:37:22] Nami: Np
+[28/09/2014 18:37:56] Seven: wb leavern ~
+[28/09/2014 18:38:04] Leavern: thanks c:
+[28/09/2014 18:38:50] Nami: WB!
+[28/09/2014 18:38:52] Nami: Lea
+[28/09/2014 18:38:55] Nami: :>
+[28/09/2014 18:39:02] Leavern: thx c:
+[28/09/2014 18:41:57] Nami: is there anyway to change rotom's form?
+[28/09/2014 18:42:04] Seven: forms are broken
+[28/09/2014 18:42:07] Nami: Ah
+[28/09/2014 18:42:14] pernuta: Sadly no
+[28/09/2014 18:44:04] Leavern: lv cap in Sandy Trench ?
+[28/09/2014 18:44:20] Nami:  i think 20-30 I think
+[28/09/2014 18:50:56] Leavern: i like Sandy Trench o:
+[28/09/2014 18:51:18] Nami: lol
+[28/09/2014 18:51:23] Nami: I should complete more dungeons
+[28/09/2014 18:51:27] Nami: So i can get missions
+[28/09/2014 18:51:47] Nami: Lea wanna watch me map Frosty's house? if you want?
+[28/09/2014 18:52:00] Leavern: there are not maked mission's for the dungeons
+[28/09/2014 18:59:38] Kelo: on skype
+[28/09/2014 18:59:46] Nami: Tell me on shout box
+[28/09/2014 18:59:55] Nami: @ Pernuta
+[28/09/2014 19:00:47] Nami: Pernuta did you put it on shout box yet? oooo:;;;;;
+[28/09/2014 19:00:50] Nami: typos
+[28/09/2014 19:01:34] pernuta: yehhhh
+[28/09/2014 19:02:33] Nami: Press main server?
+[28/09/2014 19:02:46] Nami: kk
+[28/09/2014 19:06:18] Seven: wb nami ~
+[28/09/2014 19:06:37] Nami: Whats in the debug server?
+[28/09/2014 19:07:04] Nami: any idea whats the debug server for? pernuta
+[28/09/2014 19:07:57] Nami: Hm
+[28/09/2014 20:04:46] Leavern: Pernuta
+[28/09/2014 20:57:37] Nami: Seven
+[28/09/2014 20:57:57] Seven:  ? o:
+[28/09/2014 20:59:33] Nami: Seven
+[28/09/2014 20:59:40] Seven:  ? o:
+[28/09/2014 20:59:41] Nami: Is there a command to let others see party?
+[28/09/2014 20:59:45] Nami: Like a normal player?
+[28/09/2014 20:59:55] Seven: what do you mean ? o.o
+[28/09/2014 21:00:05] Seven: party member should just apear o:
+[28/09/2014 21:00:16] Nami: like a command that lets you see the pokemons the player has
+[28/09/2014 21:00:26] Seven:  /info user
+[28/09/2014 21:00:52] Nami: k
+[28/09/2014 21:26:49] Seven: wb ~

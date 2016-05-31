@@ -1,0 +1,25 @@
+You mean this playerName = "[c][" + Ranks.GetRankColor(client.Player.Access).ToArgb() + "]" + client.Player.Name + "[/c]";
+
+ for something that in well-written code is literally a 1-2 line change, this thing will require most likely 100-200 lines of changes or more across at least 6 files
+
+Mystikal_Pooka: yes. that.
+
+
+"[c]" is basically telling the parser that the following is a RGB color code so make the following code up to [/c] that rgb code
+
+it then goes and gets the rank's color from the client.player class for the color, then goes to client.Player and gets the name associated with that player and outputs it
+
+so essentially in pseudo code it would be something like "[pink]Mystikal_Pooka[/pink]" if the Pooka rank were returning the pink rgb code
+
+that instead needs to be something like
+
+playerName = "[" + client.Player.GetRank() + "]" + client.Player.Name;
+
+that would show [Dev]Pooka
+
+ you just need to code that GetRank method inside the Player class. all it does is return the rank of that player. Unless the rank is already a variable... let me check
+
+ 
+Fix Tags [Contributed By Pooki] https://www.twitch.tv/mystikal_pooka
+playerName = "[" + client.Player.Access + "]" + client.Player.Name;
+

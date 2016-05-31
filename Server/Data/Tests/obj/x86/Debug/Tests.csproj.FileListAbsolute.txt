@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\bin\Debug\Server.Tests.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\bin\Debug\Server.Tests.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Debug\Server.Tests.Properties.Resources.resources
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Debug\Server.Tests.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Debug\Server.Tests.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Debug\Tests.csproj.GenerateResource.Cache

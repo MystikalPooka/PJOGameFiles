@@ -1,0 +1,557 @@
+[23/09/2014 17:56:24] Senpai: thanks c:
+[23/09/2014 17:56:36] Senpai: lets see what i can do.. any theme idea?
+[23/09/2014 17:57:06] pernuta: There
+[23/09/2014 17:57:24] pernuta: Use /editmap to edit it
+[23/09/2014 17:57:37] Senpai: it nu work
+[23/09/2014 17:57:38] Senpai: qwq
+[23/09/2014 17:57:44] pernuta: hmm
+[23/09/2014 17:57:45] Senpai: do i relog?
+[23/09/2014 17:57:52] pernuta: no wait
+[23/09/2014 17:58:13] pernuta: There
+[23/09/2014 17:58:14] pernuta: Try now
+[23/09/2014 17:58:20] Senpai: therre
+[23/09/2014 17:58:23] pernuta: Working?
+[23/09/2014 17:58:28] Senpai: yes
+[23/09/2014 17:58:33] pernuta: Okay
+[23/09/2014 17:58:43] pernuta: Do this map an overworld place
+[23/09/2014 17:58:48] Senpai: okie
+[23/09/2014 17:58:50] pernuta: Like a forest or things like that
+[23/09/2014 17:58:55] pernuta: You can make it bigger too~
+[23/09/2014 17:58:59] Senpai: got it :D
+[23/09/2014 17:59:05] pernuta: Call me maybe if you done!
+[23/09/2014 17:59:06] pernuta: :P
+[23/09/2014 18:30:56] pernuta: sry
+[23/09/2014 18:30:58] pernuta: D:
+[23/09/2014 18:31:05] Senpai: i had to block
+[23/09/2014 18:31:06] Senpai: ;w;
+[23/09/2014 18:31:13] Senpai: im bad with big places crai
+[23/09/2014 18:31:24] Senpai: but this is what im working on
+[23/09/2014 18:31:25] Senpai: ;w;
+[23/09/2014 18:31:32] pernuta: Is it done?
+[23/09/2014 18:31:37] Senpai: hmm
+[23/09/2014 18:31:41] Senpai: i feel like..
+[23/09/2014 18:31:42] Senpai: its
+[23/09/2014 18:31:44] Senpai: missing somthing
+[23/09/2014 18:31:55] pernuta: It's missing this bug
+[23/09/2014 18:31:58] pernuta: :(
+[23/09/2014 18:32:05] Senpai: oh
+[23/09/2014 18:32:11] Senpai: lemme fix that o:
+[23/09/2014 18:32:15] pernuta: I'm waiting for the full map`
+[23/09/2014 18:32:24] pernuta: Then i'll tell you if you are going to be a mapper
+[23/09/2014 18:32:34] Senpai: i have to do a 50x 50 ?
+[23/09/2014 18:32:47] pernuta: As a mapper you gotta do any sized maps
+[23/09/2014 18:32:52] pernuta: Depends
+[23/09/2014 18:32:59] Senpai: then well,
+[23/09/2014 18:33:05] Senpai: i need to think of how to do this map
+[23/09/2014 18:33:06] Senpai: ;w;
+[23/09/2014 18:33:13] Senpai: time to use imagineation
+[23/09/2014 18:33:17] pernuta: Okay!
+[23/09/2014 18:33:24] Senpai: wanna help?
+[23/09/2014 18:33:26] Senpai: c:
+[23/09/2014 18:33:26] pernuta: Tell me when done~ c:
+[23/09/2014 18:33:30] pernuta: I can't help you
+[23/09/2014 18:33:34] pernuta: It's your test
+[23/09/2014 18:33:35] pernuta: :(
+[23/09/2014 18:33:41] Senpai: true. i shpuld come up with ideas my own.
+[23/09/2014 18:33:50] pernuta: Yeah
+[23/09/2014 18:33:59] Senpai: hmm.. then well. lets see.
+[23/09/2014 18:34:08] pernuta: i'll let you think!
+[23/09/2014 18:34:16] Senpai: drracccccoo <3
+[23/09/2014 18:34:19] Senpai: my umbreonn
+[23/09/2014 18:34:19] Frosty2011: hello lonely :)
+[23/09/2014 18:34:20] Senpai: ;w;
+[23/09/2014 18:34:21] Frosty2011: C:
+[23/09/2014 18:34:29] Frosty2011: how u doing senpai :)
+[23/09/2014 18:34:41] pernuta: I'm testing her
+[23/09/2014 18:34:43] Senpai: im doing well just trying to think of a good map idea o:
+[23/09/2014 18:34:50] Frosty2011: ok awesome
+[23/09/2014 18:34:51] Frosty2011: :)
+[23/09/2014 18:34:59] Senpai: yesh. i hope its good enough qwq
+[23/09/2014 18:35:02] Senpai: but i think
+[23/09/2014 18:35:03] Frosty2011: xD
+[23/09/2014 18:35:04] Senpai: i have a idea.
+[23/09/2014 18:35:06] Frosty2011: im sure it will be
+[23/09/2014 18:35:13] Senpai: how do i make the map bigger? o:
+[23/09/2014 18:35:20] pernuta: I'm going to map too!
+[23/09/2014 18:35:27] pernuta: Go to proprieties
+[23/09/2014 18:35:29] pernuta: at scrool
+[23/09/2014 18:35:32] pernuta: scroll*
+[23/09/2014 18:35:33] Senpai: okie.
+[23/09/2014 18:35:37] pernuta: the min is 19x14
+[23/09/2014 18:35:37] Senpai: ill be working at this then
+[23/09/2014 18:35:41] Senpai: okie
+[23/09/2014 18:35:43] pernuta: the max is 50x50
+[23/09/2014 18:35:47] pernuta: gl!
+[23/09/2014 18:40:33] Senpai: hai owo
+[23/09/2014 18:40:39] Leavern: Hia
+[23/09/2014 18:40:42] Leavern: c:
+[23/09/2014 18:40:51] Senpai: friend of my prince pernuta? cx
+[23/09/2014 18:41:00] Leavern: yea z3
+[23/09/2014 18:41:02] Leavern: <3
+[23/09/2014 18:41:05] Senpai: you two are in the same guild i see ouo
+[23/09/2014 18:41:12] Leavern: yea
+[23/09/2014 18:41:15] Senpai: cx
+[23/09/2014 18:41:19] Leavern: we are the Cow\S!
+[23/09/2014 18:41:19] Senpai: im test mapping.
+[23/09/2014 18:41:28] Senpai: you can stay if chud like o:
+[23/09/2014 18:41:35] Leavern: okay c:
+[23/09/2014 18:41:52] Leavern: Senpai ?
+[23/09/2014 18:42:01] Senpai: hm?
+[23/09/2014 18:42:24] Leavern: are there a other place where i can test somthing ?
+[23/09/2014 18:42:39] Senpai: umm id suggest asking pillow c:
+[23/09/2014 18:42:44] Senpai: aka per qwq
+[23/09/2014 18:42:47] Leavern: kay
+[23/09/2014 18:42:57] Senpai: but my thingy isnt working
+[23/09/2014 18:43:06] Leavern: Ditto :D
+[23/09/2014 18:43:11] Senpai: it wont make the map big ;w;
+[23/09/2014 18:44:20] pernuta: Click okay after doign that
+[23/09/2014 18:44:22] pernuta: doing*
+[23/09/2014 18:44:30] pernuta: not the red "x"
+[23/09/2014 18:44:39] Senpai: lets see
+[23/09/2014 18:45:13] pernuta: bigger
+[23/09/2014 18:45:14] pernuta: :P
+[23/09/2014 18:45:17] Senpai: did it work?
+[23/09/2014 18:45:21] pernuta: yep!
+[23/09/2014 18:45:25] Senpai: yay :3
+[23/09/2014 18:45:35] pernuta: Well then, good luck! :D
+[23/09/2014 18:45:44] pernuta: I'm sure you will do good enough to be a mapper
+[23/09/2014 18:45:45] Senpai: thankies cx
+[23/09/2014 18:45:45] pernuta: c:
+[23/09/2014 18:45:51] pernuta: gl
+[23/09/2014 19:10:30] Senpai: hai owo
+[23/09/2014 19:10:39] pernuta: Wow
+[23/09/2014 19:10:50] Senpai: ?
+[23/09/2014 19:10:53] pernuta: Not trying to be rude but you did all this
+[23/09/2014 19:10:59] pernuta: In like 20-30 mins
+[23/09/2014 19:11:00] pernuta: o:
+[23/09/2014 19:11:02] Senpai: i had to eat.
+[23/09/2014 19:11:03] Senpai: owo
+[23/09/2014 19:11:06] pernuta: oh lol
+[23/09/2014 19:11:08] Senpai: yea
+[23/09/2014 19:11:09] pernuta: sry then
+[23/09/2014 19:11:11] Senpai: if i did
+[23/09/2014 19:11:14] Senpai: i would cry
+[23/09/2014 19:11:16] Senpai: XD
+[23/09/2014 19:11:24] Senpai: ive spent like
+[23/09/2014 19:11:27] Senpai: 5 mintues
+[23/09/2014 19:11:29] Senpai: qwq
+[23/09/2014 19:11:36] pernuta: Well
+[23/09/2014 19:11:44] pernuta: You got 1 more hour and 20 mins
+[23/09/2014 19:11:49] Senpai: okie
+[23/09/2014 19:11:50] pernuta: Cause after that i gtg
+[23/09/2014 19:11:54] Senpai: ill hurrt then
+[23/09/2014 19:11:55] pernuta: So gl!~
+[23/09/2014 19:11:58] Senpai: thanks 
+[23/09/2014 19:11:59] Senpai: c:
+[23/09/2014 19:39:18] Senpai: a purrloin gang
+[23/09/2014 19:39:19] Senpai: owo
+[23/09/2014 20:21:31] Senpai: haihai
+[23/09/2014 20:21:32] Senpai: cx
+[23/09/2014 20:21:36] Nami: Hello!
+[23/09/2014 20:21:39] Nami: Im darkyy
+[23/09/2014 20:21:44] Senpai: oh darkkyyy <3
+[23/09/2014 20:21:50] Senpai: so all the people i love play this ._.
+[23/09/2014 20:21:52] pernuta: Hiya darkyy!~
+[23/09/2014 20:22:00] Nami: Hiya~
+[23/09/2014 20:22:03] Senpai: chipper asked me to join so yay
+[23/09/2014 20:22:14] Nami: wait purrlion? :O
+[23/09/2014 20:22:16] Nami: Aww
+[23/09/2014 20:22:20] Senpai: its my sona.
+[23/09/2014 20:22:21] Senpai: ;w;
+[23/09/2014 20:22:22] pernuta: darkyy
+[23/09/2014 20:22:29] Nami: Hullo!
+[23/09/2014 20:22:31] pernuta: I though you were a mapper lol
+[23/09/2014 20:22:38] pernuta: nvm making  u now
+[23/09/2014 20:22:48] Nami: kk
+[23/09/2014 20:22:56] Senpai: did i do okay?
+[23/09/2014 20:23:01] Nami: I like this ma
+[23/09/2014 20:23:03] Nami: map*
+[23/09/2014 20:23:06] Senpai: thanks ;w;
+[23/09/2014 20:23:10] Nami: Hmm
+[23/09/2014 20:23:15] pernuta: Let me see
+[23/09/2014 20:23:56] pernuta: Hmm
+[23/09/2014 20:24:06] Senpai: oh i forgot this area o:
+[23/09/2014 20:24:16] Senpai: one sec blocking now.
+[23/09/2014 20:24:43] Nami: your a mod?
+[23/09/2014 20:24:48] Senpai: herro c:
+[23/09/2014 20:25:25] pernuta: Well
+[23/09/2014 20:25:43] pernuta: This map idea is cool
+[23/09/2014 20:25:52] Senpai: thanks ;w;
+[23/09/2014 20:25:57] pernuta: More decorations would be nice though
+[23/09/2014 20:26:04] pernuta: So my answer is......
+[23/09/2014 20:26:27] Nami: Yes/
+[23/09/2014 20:26:29] Nami: More
+[23/09/2014 20:26:32] pernuta: ............
+[23/09/2014 20:26:34] pernuta: ..........
+[23/09/2014 20:26:35] Senpai: ...
+[23/09/2014 20:26:41] pernuta: (drama music starts)
+[23/09/2014 20:26:57] pernuta: My answer is.....
+[23/09/2014 20:27:06] Nami: -gets excited-
+[23/09/2014 20:27:40] pernuta: Because you did this map.....
+[23/09/2014 20:27:50] pernuta: I am.....
+[23/09/2014 20:27:54] pernuta: Sorry to say that........
+[23/09/2014 20:28:03] pernuta: I don't like it.
+[23/09/2014 20:28:08] pernuta: I love it <3
+[23/09/2014 20:28:12] Senpai: omg ;w;
+[23/09/2014 20:28:13] Nami: ^^
+[23/09/2014 20:28:19] Senpai: <3
+[23/09/2014 20:28:25] pernuta: You are a mapper! :D
+[23/09/2014 20:28:37] Senpai: thank you so much <3333
+[23/09/2014 20:28:39] Senpai: eee
+[23/09/2014 20:28:40] pernuta: But be sure to add more decorations in the future!
+[23/09/2014 20:28:53] Nami: Hmm
+[23/09/2014 20:28:55] Nami: I wanna train
+[23/09/2014 20:28:57] Senpai: ye si kow tats like the one thing i lack so ill try to get more creative ;w;
+[23/09/2014 20:29:01] Nami: But i need sonder chest ;-;
+[23/09/2014 20:29:05] Nami: Wonder*
+[23/09/2014 20:29:11] pernuta: nope
+[23/09/2014 20:29:11] Nami: Sorry i have a new keyboard
+[23/09/2014 20:29:19] pernuta: No wonder chest here
+[23/09/2014 20:29:23] Nami: ;o
+[23/09/2014 20:29:24] pernuta: But ancient chest
+[23/09/2014 20:29:27] Senpai: this was amay i ask a quick question o:
+[23/09/2014 20:29:27] pernuta: That gives more exp!
+[23/09/2014 20:29:28] pernuta: :P
+[23/09/2014 20:29:31] Nami: ancient Chest :O
+[23/09/2014 20:29:37] Senpai: how does one make a secret base~
+[23/09/2014 20:29:39] Nami: Leavern is Dev?
+[23/09/2014 20:29:41] Senpai: like yours ;w;
+[23/09/2014 20:29:49] Senpai: yes she/he nis
+[23/09/2014 20:29:51] Senpai: is*
+[23/09/2014 20:29:54] Senpai: i met them
+[23/09/2014 20:29:55] Senpai: c:
+[23/09/2014 20:29:58] Senpai: oh hai :D
+[23/09/2014 20:29:59] Nami: Gonna be NPC
+[23/09/2014 20:30:04] Leavern: Hia
+[23/09/2014 20:30:09] pernuta: hmm
+[23/09/2014 20:30:11] pernuta: senpai
+[23/09/2014 20:30:14] Senpai: i made friends with them eailer :3
+[23/09/2014 20:30:15] Senpai: ?
+[23/09/2014 20:30:25] pernuta: You gotta have a guild for a base :P
+[23/09/2014 20:30:33] Senpai: i need a guild then ._.
+[23/09/2014 20:30:34] Nami: well im gonna go train
+[23/09/2014 20:30:44] Senpai: ima call it........
+[23/09/2014 20:30:46] Nami: I need to be master rank
+[23/09/2014 20:30:48] Senpai: hmm....
+[23/09/2014 20:30:51] Nami: Senpai call it Umm
+[23/09/2014 20:30:54] Nami: Team um
+[23/09/2014 20:30:57] Nami: ..
+[23/09/2014 20:31:02] Nami: Team Stars!
+[23/09/2014 20:31:04] Senpai: we can make it togther :D
+[23/09/2014 20:31:09] Nami: Team Moonlight!
+[23/09/2014 20:31:11] Leavern: Nami
+[23/09/2014 20:31:15] Nami: ^^
+[23/09/2014 20:31:17] Nami: Yes?
+[23/09/2014 20:31:22] Senpai: we are both dark types <3
+[23/09/2014 20:31:27] Nami: Ikr <3
+[23/09/2014 20:31:33] Leavern: Moonlight Devs :D
+[23/09/2014 20:31:37] Nami: Ikr
+[23/09/2014 20:31:37] Leavern: o:
+[23/09/2014 20:31:38] Nami: :D
+[23/09/2014 20:31:47] Nami: Hmm
+[23/09/2014 20:31:56] Leavern: Nami c: ?
+[23/09/2014 20:32:01] Nami: c:
+[23/09/2014 20:32:09] Leavern: what lv do you think aggron are in c: ?
+[23/09/2014 20:32:10] Nami: you guys are so nice <3
+[23/09/2014 20:32:17] Nami: Umm 100? xD
+[23/09/2014 20:32:19] Senpai: level 100? 
+[23/09/2014 20:32:20] Senpai: owo
+[23/09/2014 20:32:22] Leavern: nop c:
+[23/09/2014 20:32:29] Nami: idk how to be 100 lol
+[23/09/2014 20:32:29] Senpai: level 60ish
+[23/09/2014 20:32:35] pernuta: Krabbyis good at headbanging!
+[23/09/2014 20:32:36] pernuta: :D
+[23/09/2014 20:32:36] Nami: Oh maybe 80ish
+[23/09/2014 20:32:40] Leavern: that is raight Senpai o.o
+[23/09/2014 20:32:43] Nami: lol
+[23/09/2014 20:32:44] Senpai: oh~
+[23/09/2014 20:32:46] Senpai: im good
+[23/09/2014 20:32:48] Nami: im gonna go train
+[23/09/2014 20:32:48] Leavern: 60 c:
+[23/09/2014 20:32:58] Nami: But does anyone have an Acient Chest?
+[23/09/2014 20:33:01] Nami: I can borrow?
+[23/09/2014 20:33:06] Senpai: chu can barrow mine-
+[23/09/2014 20:33:08] Senpai: oh
+[23/09/2014 20:33:09] Senpai: owo
+[23/09/2014 20:33:12] Nami: thanks <3
+[23/09/2014 20:33:14] Leavern: np
+[23/09/2014 20:33:16] Senpai: ;u;
+[23/09/2014 20:33:19] Leavern: have 4 of them :d
+[23/09/2014 20:33:24] Nami: Lol
+[23/09/2014 20:33:24] Leavern: keep it
+[23/09/2014 20:33:33] Nami: you got TM flamethrower?
+[23/09/2014 20:33:34] Leavern: beat the dungeon 4 times xD
+[23/09/2014 20:33:37] Senpai: my purrloin is wearing her crown c;
+[23/09/2014 20:33:40] Senpai: like a prooo
+[23/09/2014 20:33:43] Nami: one day PJO will be famous
+[23/09/2014 20:33:45] Nami: :>
+[23/09/2014 20:33:49] Senpai: it will.
+[23/09/2014 20:33:51] Leavern: not not got it
+[23/09/2014 20:33:54] Senpai: i really love this map ;w;
+[23/09/2014 20:33:58] Nami: i like it
+[23/09/2014 20:34:03] Nami: Add more things a little
+[23/09/2014 20:34:04] Nami: Thats all
+[23/09/2014 20:34:05] Nami: :>
+[23/09/2014 20:34:07] Senpai: i should.
+[23/09/2014 20:34:10] Nami: Gonna go train~
+[23/09/2014 20:34:10] Senpai: but what to add
+[23/09/2014 20:34:11] Leavern: Nami ?
+[23/09/2014 20:34:13] Senpai: hmm..
+[23/09/2014 20:34:14] Nami: Hm?
+[23/09/2014 20:34:17] Leavern: what rank are you
+[23/09/2014 20:34:20] Leavern: as staff
+[23/09/2014 20:34:26] Nami: Scripter
+[23/09/2014 20:34:38] Senpai: leavvvv wanna help me add stuffles.
+[23/09/2014 20:34:40] Senpai: i cant pick
+[23/09/2014 20:34:41] Senpai: ;w;
+[23/09/2014 20:34:50] Senpai: im too uncreative atm. hence im sick.
+[23/09/2014 20:34:52] Leavern: can you let me be admin for a sec i can give my self rankup d: ?
+[23/09/2014 20:35:01] Leavern: and make a guil;d d:
+[23/09/2014 20:35:06] Leavern: Guild d:
+[23/09/2014 20:35:07] Nami: On explorer rank?
+[23/09/2014 20:35:12] Leavern: yea dx
+[23/09/2014 20:35:20] Nami: I dont even know Lol
+[23/09/2014 20:35:23] Leavern: there are no missions d:
+[23/09/2014 20:35:24] Nami: i dont even know command
+[23/09/2014 20:35:26] Senpai: i need to learn how to make a guild.
+[23/09/2014 20:35:27] Senpai: ;w;
+[23/09/2014 20:35:27] Leavern: i do
+[23/09/2014 20:35:31] Senpai: i know howwwwwwwww
+[23/09/2014 20:35:36] Leavern: same
+[23/09/2014 20:35:36] Nami: tell me through PM :o
+[23/09/2014 20:35:37] Senpai: i used to work for a game a long time ago.
+[23/09/2014 20:35:38] Senpai: ;w;
+[23/09/2014 20:35:52] Leavern: can i be admin for a sec to do it o: ?
+[23/09/2014 20:36:33] Senpai: its in there somewhere
+[23/09/2014 20:38:00] Senpai: thats how i reember zorua doing it at least.
+[23/09/2014 20:38:01] Senpai: ;w;
+[23/09/2014 20:38:11] Leavern: Nami ?
+[23/09/2014 20:38:17] Nami: Hmm?
+[23/09/2014 20:38:18] Senpai: shes trying.
+[23/09/2014 20:38:18] Nami: Oh ya
+[23/09/2014 20:38:19] Senpai: ;w;
+[23/09/2014 20:38:23] Nami: i forgot i was on brb
+[23/09/2014 20:38:26] Nami: Now
+[23/09/2014 20:38:27] Leavern: could you do it o: ?
+[23/09/2014 20:38:28] Senpai: oh
+[23/09/2014 20:38:30] Nami: Nope
+[23/09/2014 20:38:33] Nami: sorry D:
+[23/09/2014 20:38:38] Leavern: why :c ?
+[23/09/2014 20:38:42] Nami: I don't know how to
+[23/09/2014 20:38:46] Senpai: she cant figure it out.
+[23/09/2014 20:39:20] Senpai: ;w;
+[23/09/2014 20:39:24] Nami: im sorry D:
+[23/09/2014 20:39:30] Senpai: its okie
+[23/09/2014 20:39:34] Nami: <-- Worst Person in the world D:
+[23/09/2014 20:39:38] Senpai: do chu know how to make a guild? and no 
+[23/09/2014 20:39:43] Senpai: youre awesome sis
+[23/09/2014 20:39:44] Senpai: ;w;
+[23/09/2014 20:39:46] Senpai: so hush
+[23/09/2014 20:39:48] Nami: ;)
+[23/09/2014 20:40:04] Senpai: i have to learn how to spawn items.
+[23/09/2014 20:40:05] Senpai: why?
+[23/09/2014 20:40:08] Senpai: tm rest
+[23/09/2014 20:40:08] Senpai: ;w;
+[23/09/2014 21:35:09] Senpai: hai ;w;
+[23/09/2014 21:35:12] Frosty2011: hi
+[23/09/2014 21:35:14] Frosty2011: u needed help
+[23/09/2014 21:35:22] Senpai: so with the healing thiny
+[23/09/2014 21:35:26] Frosty2011: k
+[23/09/2014 21:35:31] Senpai: it wont heal my stats
+[23/09/2014 21:36:07] Frosty2011: hmmm
+[23/09/2014 21:36:09] Frosty2011: 1sec
+[23/09/2014 21:36:20] Senpai: see. it heals hp but not stats , and okie
+[23/09/2014 21:36:48] Frosty2011: 1sec
+[23/09/2014 21:36:52] Senpai: okie
+[23/09/2014 21:36:56] Frosty2011: ok so it does
+[23/09/2014 21:36:57] Frosty2011: :I
+[23/09/2014 21:37:02] Frosty2011: how strange
+[23/09/2014 21:37:05] Frosty2011: oh yeh
+[23/09/2014 21:37:15] Senpai: im good at finding things ;w;
+[23/09/2014 21:37:15] Frosty2011: i think it's something to do with indoor's and outdoors
+[23/09/2014 21:37:19] Senpai: ahh
+[23/09/2014 21:37:29] Senpai: maybe i should try making this the "indoors"
+[23/09/2014 21:37:31] Senpai: thing
+[23/09/2014 21:37:40] Frosty2011: that is maybe the reason
+[23/09/2014 21:37:46] Frosty2011: because the indoors work
+[23/09/2014 21:37:49] Senpai: lets try. o:
+[23/09/2014 21:37:52] Frosty2011: but also pernuta may know about this
+[23/09/2014 21:38:28] Senpai: lets try
+[23/09/2014 21:38:31] Nami: Hmm
+[23/09/2014 21:38:36] Nami: frosty
+[23/09/2014 21:38:36] Frosty2011: then do /finditem dusk
+[23/09/2014 21:38:47] Frosty2011: and it find duskstone and some other things
+[23/09/2014 21:38:47] Nami: Ahh
+[23/09/2014 21:38:53] Nami: Ok
+[23/09/2014 21:38:54] Frosty2011: and it's id next to it
+[23/09/2014 21:39:00] Nami: kk
+[23/09/2014 21:39:00] Frosty2011: then say i got superibbon
+[23/09/2014 21:39:06] Frosty2011: i do /finditem super
+[23/09/2014 21:39:12] Frosty2011: found it it's id is 931
+[23/09/2014 21:39:20] Nami: Ahh
+[23/09/2014 21:39:23] Nami: go tit
+[23/09/2014 21:39:24] Nami: got it*
+[23/09/2014 21:39:25] Nami: Ty
+[23/09/2014 21:39:33] Frosty2011: i do /give MyName number ammount i want then its id 931
+[23/09/2014 21:39:35] Frosty2011: ok good :)
+[23/09/2014 21:39:44] Frosty2011: senpai do /testailment 0
+[23/09/2014 21:40:18] Senpai: oh o:
+[23/09/2014 21:40:41] Senpai: so how to you do items? i want tm rest so yea qwq
+[23/09/2014 21:40:53] Frosty2011: u do /findmove re
+[23/09/2014 21:40:55] Nami: is there a command of pokemon? Lets say weedle And i put a command for it and its probralbly /givepokemonnami weedle lol
+[23/09/2014 21:40:58] Frosty2011: to find closest thing
+[23/09/2014 21:41:06] Nami: OMG
+[23/09/2014 21:41:15] Frosty2011: can't do /findpokemon
+[23/09/2014 21:41:19] Frosty2011: it's coding
+[23/09/2014 21:41:20] Nami: lol
+[23/09/2014 21:41:24] Frosty2011: and it say's Pikaboo
+[23/09/2014 21:41:27] Frosty2011: xD
+[23/09/2014 21:41:31] Nami: lol
+[23/09/2014 21:41:37] Nami: pokemon language!
+[23/09/2014 21:41:40] Frosty2011: yep
+[23/09/2014 21:41:41] Frosty2011: xD
+[23/09/2014 21:41:48] Nami: How to take it off Lol
+[23/09/2014 21:41:53] Frosty2011: can't ywt
+[23/09/2014 21:41:54] Frosty2011: yet
+[23/09/2014 21:41:55] Frosty2011: xD
+[23/09/2014 21:41:58] Nami: Lol lemme relog
+[23/09/2014 21:42:02] Frosty2011: il get pernuta do it or chipper
+[23/09/2014 21:42:10] Senpai: its just /giveitem 13 senpai ?
+[23/09/2014 21:42:13] Nami: chipper kinda quit the game i think
+[23/09/2014 21:42:14] Senpai: 13- rest
+[23/09/2014 21:42:17] Frosty2011: no senpai
+[23/09/2014 21:42:23] Senpai: he asked me to play today soo.
+[23/09/2014 21:42:24] Frosty2011: it is /learnmove 13
+[23/09/2014 21:42:26] Senpai: okie
+[23/09/2014 21:42:39] Frosty2011: im gonna play league of legends :)
+[23/09/2014 21:42:41] Frosty2011: cya :)
+[23/09/2014 21:42:44] Senpai: okie see chu c:
+[23/09/2014 21:42:46] Frosty2011: if u need me skype e
+[23/09/2014 21:42:47] Frosty2011: C:
+[23/09/2014 21:42:52] Senpai: okie cx
+[23/09/2014 21:42:55] Nami: Wait!
+[23/09/2014 21:43:00] Nami: Where to evolve!
+[23/09/2014 21:43:03] Nami: Lol
+[23/09/2014 21:43:04] Nami: lol
+[23/09/2014 21:43:05] Senpai: here
+[23/09/2014 21:43:19] Nami: ? o.o
+[23/09/2014 21:43:19] Senpai: see it?
+[23/09/2014 21:43:28] Nami: Ahh!
+[23/09/2014 21:43:31] Senpai: ye
+[23/09/2014 21:43:32] Nami: Put something on it
+[23/09/2014 21:43:33] Senpai: i made it for you.
+[23/09/2014 21:43:36] Nami: ty
+[23/09/2014 21:43:39] Nami: Wait lemme edit?
+[23/09/2014 21:43:42] Nami: For something
+[23/09/2014 21:43:45] Nami: if i can
+[23/09/2014 21:43:51] Nami: can i?
+[23/09/2014 21:44:02] Senpai: sure
+[23/09/2014 21:44:03] Senpai: do
+[23/09/2014 21:44:08] Senpai:  /editmap
+[23/09/2014 21:47:30] Nami: sorry if i made it look bad
+[23/09/2014 21:47:41] Nami: did i made it look bad?
+[23/09/2014 21:48:06] Senpai: it doesnt looks bad
+[23/09/2014 21:48:09] Senpai: you know
+[23/09/2014 21:48:11] Senpai: for now...
+[23/09/2014 21:48:15] Senpai: we can try to make this
+[23/09/2014 21:48:17] Senpai: our base
+[23/09/2014 21:48:18] Nami: lol
+[23/09/2014 21:48:19] Senpai: c:
+[23/09/2014 21:48:22] Nami: c:
+[23/09/2014 21:48:24] Nami: Team Umm
+[23/09/2014 21:48:27] Nami: i have 500k
+[23/09/2014 21:48:28] Nami: lol
+[23/09/2014 21:48:36] Senpai: we are the moonlight kingdom
+[23/09/2014 21:48:39] Nami: :D
+[23/09/2014 21:48:39] Senpai: we just need to know
+[23/09/2014 21:48:43] Senpai: how to rank.
+[23/09/2014 21:48:46] Nami: how to edit rank
+[23/09/2014 21:48:47] Nami: :/
+[23/09/2014 21:48:56] Senpai: want me to ask umbre?
+[23/09/2014 21:48:57] Senpai: c:
+[23/09/2014 21:49:02] Nami: sure~
+[23/09/2014 21:49:03] Nami: Lol
+[23/09/2014 21:50:03] Senpai: i am asking now.
+[23/09/2014 21:50:06] Nami: kk
+[23/09/2014 21:50:11] Nami: Look at me <3
+[23/09/2014 21:50:31] Senpai: :3
+[23/09/2014 21:50:37] Senpai: it suits chu
+[23/09/2014 21:50:47] Nami: whats the command?
+[23/09/2014 21:50:49] Nami: I need tm rest
+[23/09/2014 21:50:59] Nami: Wait
+[23/09/2014 21:51:00] Nami: Nvm
+[23/09/2014 21:51:14] Senpai: its /learnmove 223
+[23/09/2014 21:51:16] Senpai: owo
+[23/09/2014 21:51:39] Nami: Lol
+[23/09/2014 21:52:41] Senpai: only pernuta can do it
+[23/09/2014 21:52:42] Senpai: ;w;
+[23/09/2014 21:52:56] Nami: what rank is he?
+[23/09/2014 21:52:56] Senpai: he can get us ourt guild htough
+[23/09/2014 21:52:57] Senpai: but
+[23/09/2014 21:53:03] Senpai: hes sleeping
+[23/09/2014 21:53:09] Nami: Rank?
+[23/09/2014 21:53:12] Nami: hes a scripter
+[23/09/2014 21:53:13] Senpai: is his pernuta's game?
+[23/09/2014 21:53:16] Senpai: and hes master
+[23/09/2014 21:53:20] Senpai: cows his his guild.
+[23/09/2014 21:53:25] Nami: lol
+[23/09/2014 21:53:27] Senpai: is*
+[23/09/2014 21:53:33] Senpai: we are princesses soo
+[23/09/2014 21:53:34] Senpai: ;w;
+[23/09/2014 21:53:48] Nami: show me where purrlion is
+[23/09/2014 21:53:56] Senpai: to be honest. im a real princess based on online standers.
+[23/09/2014 21:53:58] Senpai: and this
+[23/09/2014 21:54:00] Nami: ill Spawn to you
+[23/09/2014 21:54:02] Senpai: was my starter.
+[23/09/2014 21:54:05] Senpai: owo
+[23/09/2014 21:54:08] Nami: they say
+[23/09/2014 21:54:11] Nami: its on
+[23/09/2014 21:54:15] Nami: mt nightmare :o
+[23/09/2014 21:54:21] Senpai: ill tp there
+[23/09/2014 21:54:22] Senpai: ?
+[23/09/2014 21:54:33] Nami: sure maybe lol
+[23/09/2014 21:55:03] Senpai: i needda relog
+[23/09/2014 21:55:29] Nami: wb :>
+[23/09/2014 21:55:34] Senpai: thanks c:
+[23/09/2014 21:56:34] Nami: Hmm now where is Mt nightmare
+[23/09/2014 21:57:19] Nami: Error
+[23/09/2014 21:57:35] Nami: Hmm im gonna make this mao a little better :>
+[23/09/2014 21:57:37] Nami: Now!
+[23/09/2014 21:57:39] Nami: BRB!
+[23/09/2014 21:57:41] Nami: Gonna map
+[23/09/2014 21:57:51] Senpai: okie
+[23/09/2014 21:57:56] Senpai: i couldnt find it
+[23/09/2014 21:57:58] Nami: we need a river
+[23/09/2014 21:58:01] Nami: Hmm
+[23/09/2014 21:58:05] Nami: Im gonna make one
+[23/09/2014 21:58:23] Senpai: want to add all the details while i go check things out?
+[23/09/2014 21:58:28] Nami: kk
+[23/09/2014 21:59:31] Senpai: weba
+[23/09/2014 21:59:33] Nami: ty
+[23/09/2014 22:00:39] Nami: Senpai
+[23/09/2014 22:00:44] Nami: i dont feel like mapping D:
+[23/09/2014 22:00:52] Nami: Oh!
+[23/09/2014 22:00:57] Nami: Where did burmy come from lol
+[23/09/2014 22:01:04] Senpai: staff lounge
+[23/09/2014 22:01:05] Senpai: ;w;
+[23/09/2014 22:01:12] Nami: :o
+[23/09/2014 22:01:19] Nami: go to it
+[23/09/2014 22:01:23] Nami: Ill TP there
+[23/09/2014 22:01:27] Senpai: okie
+[23/09/2014 22:33:13] Senpai: okie
+[23/09/2014 22:33:20] Nami: Ok lets practice
+[23/09/2014 22:33:26] Nami: Any wild pokemon
+[23/09/2014 22:33:33] Senpai: lets try
+[23/09/2014 22:33:36] Senpai: poochyena
+[23/09/2014 22:33:36] Nami: kk
+[23/09/2014 22:33:39] Nami: Hmm
+[23/09/2014 22:33:54] Nami: whenever i use properties
+[23/09/2014 22:33:58] Nami: i error ;-;
+[23/09/2014 22:34:16] Nami: do u?
+[23/09/2014 22:35:53] Senpai: done.
+[23/09/2014 22:35:59] Nami: Hmm
+[23/09/2014 22:36:04] Nami: Did you edit RR?
+[23/09/2014 22:36:12] Senpai: RR?
+[23/09/2014 22:36:18] Nami: Recruit Rate
+[23/09/2014 22:36:22] Senpai: nu
+[23/09/2014 22:36:29] Nami: do you know how too?

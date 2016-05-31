@@ -1,0 +1,4 @@
+KB-A-0000 - Core updater update (how meta!)
+KB-A-0001 - Core client update
+KB-A-0002 - Graphics update
+KN-A-0003 - Skins update

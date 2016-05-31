@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PJO</name>
+    </assembly>
+    <members>
+        <member name="T:Client.Logic.CommandProcessor">
+            <summary>
+            Description of CommandProcessor.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Editors.RDungeons.EditableRDungeon">
+            <summary>
+            Description of EditableRDungeon.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Editors.RDungeons.EditableRDungeonFloor">
+            <summary>
+            Description of EditableRDungeonFloor.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Evolutions.EvolutionBranch">
+            <summary>
+            Description of EvolutionBranch.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Exceptions.ErrorBox">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Exceptions.ErrorBox.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Client.Logic.Exceptions.ErrorBox"/> class.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Exceptions.ErrorBox.ShowDialog(System.String,System.String,System.String)">
+            <summary>
+            Shows the dialog box
+            </summary>
+            <param name="caption">The caption.</param>
+            <param name="message">The message.</param>
+            <param name="details">The details.</param>
+            <returns></returns>
+        </member>
+        <member name="F:Client.Logic.Exceptions.ErrorBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Exceptions.ErrorBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Client.Logic.Exceptions.ErrorBox.InitializedComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Exceptions.ExceptionHandler">
+            <summary>
+            Class that handles any exceptions that occur in the program.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Exceptions.ExceptionHandler.OnException(System.Exception)">
+            <summary>
+            Called when an exception occurs.
+            </summary>
+            <param name="ex">The exception.</param>
+        </member>
+        <member name="M:Client.Logic.ExpKit.IKitModule.SwitchOut">
+            <summary>
+            Called when the module is switched for another module
+            </summary>
+        </member>
+        <member name="M:Client.Logic.ExpKit.IKitModule.Initialize(System.Drawing.Size)">
+            <summary>
+            Called when the module is set as the active module
+            </summary>
+        </member>
+        <member name="P:Client.Logic.ExpKit.IKitModule.ModuleIndex">
+            <summary>
+            Gets the index # of the module
+            </summary>
+        </member>
+        <member name="P:Client.Logic.ExpKit.IKitModule.ModuleName">
+            <summary>
+            Gets the friendly name of the module
+            </summary>
+        </member>
+        <member name="T:Client.Logic.GameProcessor">
+            <summary>
+            Description of GameProcessor.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Ash.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Ash.UpdateLocation">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Ash.Dispose(System.Boolean)">
+            <summary>
+            Destroys the surface object and frees its memory
+            </summary>
+            <param name="disposing">If true, dispose unmanaged resources</param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Diamond.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Diamond.UpdateLocation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Diamond.Dispose(System.Boolean)">
+            <summary>
+            Destroys the surface object and frees its memory
+            </summary>
+            <param name="disposing">If true, dispose unmanaged resources</param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Hailstone.UpdateLocation">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Hailstone.Dispose(System.Boolean)">
+            <summary>
+            Destroys the surface object and frees its memory
+            </summary>
+            <param name="disposing">If true, dispose unmanaged resources</param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Raindrop.UpdateLocation(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Raindrop.Dispose(System.Boolean)">
+            <summary>
+            Destroys the surface object and frees its memory
+            </summary>
+            <param name="disposing">If true, dispose unmanaged resources</param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Snowflake.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Snowflake.UpdateLocation(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Client.Logic.Graphics.Effects.Weather.Snowflake.Dispose(System.Boolean)">
+            <summary>
+            Destroys the surface object and frees its memory
+            </summary>
+            <param name="disposing">If true, dispose unmanaged resources</param>
+        </member>
+        <member name="T:Client.Logic.Graphics.Effects.Weather.Thunder">
+            <summary>
+            Description of Thunder.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Globals">
+            <summary>
+            Class for storing global variables.
+            </summary>
+        </member>
+        <member name="F:Client.Logic.Globals.activeWeather">
+            <summary>
+            Gets or Sets the games weather
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Globals.Encryption">
+            <summary>
+            Gets or sets the encryption class.
+            </summary>
+            <value>The encryption class.</value>
+        </member>
+        <member name="P:Client.Logic.Globals.GameLoaded">
+            <summary>
+            Gets or sets a value indicating whether the game is loaded.
+            </summary>
+            <value><c>true</c> if the game is loaded; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.Globals.GameScreen">
+            <summary>
+            Gets or sets the game screen.
+            </summary>
+            <value>The game screen.</value>
+        </member>
+        <member name="P:Client.Logic.Globals.InDebugMode">
+            <summary>
+            Gets or sets a value indicating whether the game is running in debug mode.
+            </summary>
+            <value><c>true</c> if the game is running in debug mode; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.Globals.ActiveWeather">
+            <summary>
+            Gets or Sets the active weather that will be displayed
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Globals.GameTime">
+            <summary>
+            Gets or Sets the games time
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Globals.ActiveTime">
+            <summary>
+            Gets or Sets the active time that will be displayed
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.DrawingSupport.GetCenter(System.Drawing.Size,System.Drawing.Size)">
+            <summary>
+            Gets the center point of two objects
+            </summary>
+            <param name="parentSize">The size of the parent object</param>
+            <param name="childSize">The size of the child object</param>
+            <returns>The center point of two objects</returns>
+        </member>
+        <member name="M:Client.Logic.Graphics.DrawingSupport.GetCenterX(System.Int32,System.Int32)">
+            <summary>
+            Gets the center X value of two objects
+            </summary>
+            <param name="parentWidth">The width of the parent object</param>
+            <param name="childWidth">The width of the child object</param>
+            <returns>The center X value of two objects</returns>
+        </member>
+        <member name="M:Client.Logic.Graphics.DrawingSupport.GetCenterY(System.Int32,System.Int32)">
+            <summary>
+            Gets the center Y value of two objects
+            </summary>
+            <param name="parentHeight">The height of the parent object</param>
+            <param name="childHeight">The height of the child object</param>
+            <returns>The center Y value of two objects</returns>
+        </member>
+        <member name="M:Client.Logic.Graphics.DrawingSupport.PointInBounds(System.Drawing.Point,System.Drawing.Rectangle)">
+            <summary>
+            Checks if a point intersects with the specified rectangle
+            </summary>
+            <param name="pointToTest">The point to test</param>
+            <param name="bounds">The rectangle used to determine if the point is inside</param>
+            <returns>True if the point is inside the rectangle boundaries; otherwise, false</returns>
+        </member>
+        <member name="T:Client.Logic.Graphics.TileCollection">
+            <summary>
+            Description of TileCollection.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.TileCollection.#ctor(System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Initializes an instance of the tiles collection class and loads the tiles
+            </summary>
+            <param name="filePath">The path of the full tilesheet</param>
+            <param name="tileWidth">The width of each tile</param>
+            <param name="tileHeight">The height of each tile</param>
+        </member>
+        <member name="P:Client.Logic.Graphics.TileCollection.Item(System.Int32)">
+            <summary>
+            Gets a tile from this tile collection
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Input.InputProcessor">
+            <summary>
+            Description of InputProcessor.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.IO.ControlLoader">
+            <summary>
+            Description of ControlLoader.
+            </summary>
+        </member>
+        <member name="F:Client.Logic.IO.Paths.dirChar">
+            <summary>
+            Directory seperator character used by the OS.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.Paths.CreateOSPath(System.String)">
+            <summary>
+            Creates a file path in the format used by the host OS.
+            </summary>
+            <param name="fileName">Name of the file.</param>
+            <returns>A file path in the format used by the host OS</returns>
+        </member>
+        <member name="M:Client.Logic.IO.Paths.Initialize">
+            <summary>
+            Initializes this class
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Loader">
+            <summary>
+            Loader that will load the game data.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Loader.CheckFolders">
+            <summary>
+            Checks the folders to see if they exist.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Loader.InitLoader(System.String[])">
+            <summary>
+            Initializes the loader.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Loader.LoadData">
+            <summary>
+            Loads the game data.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Loader.LoadGraphics">
+            <summary>
+            Loads the game graphics.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Loader.LoadGuis">
+            <summary>
+            Loads the core GUI's.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Graphics.FontManager">
+            <summary>
+            Class used for managing the game fonts.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.FontManager.InitFonts">
+            <summary>
+            Initializes the textbox font.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.FontManager.LoadFont(System.String,System.Int32)">
+            <summary>
+            Loads a font.
+            </summary>
+            <param name="fontName">Filename of the font to load.</param>
+            <param name="pointSize">Size of the font.</param>
+            <returns></returns>
+        </member>
+        <member name="P:Client.Logic.Graphics.FontManager.GameFont">
+            <summary>
+            Gets or Sets the font used as the main map font
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Graphics.GraphicsManager">
+            <summary>
+            Manages the game graphics.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.GraphicsManager.Initialize">
+            <summary>
+            Inits this instance.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Graphics.GraphicsManager.LoadTilesheet(System.Int32)">
+            <summary>
+            Loads a tilesheet.
+            </summary>
+            <param name="index">The index.</param>
+        </member>
+        <member name="T:Client.Logic.IO.IO">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.IO.Init">
+            <summary>
+            Initializes the IO class
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.IO.CheckFolders">
+            <summary>
+            Checks if the game folders exist, and creates the ones that dont exist.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.IO.CreateDir(System.String)">
+            <summary>
+            Creates a directory.
+            </summary>
+            <param name="dir">The directory.</param>
+        </member>
+        <member name="M:Client.Logic.IO.IO.DirExists(System.String)">
+            <summary>
+            Checks if a directory exists.
+            </summary>
+            <param name="dir">The directory to check.</param>
+            <returns>True if the directory exists; otherwise, false.</returns>
+        </member>
+        <member name="M:Client.Logic.IO.IO.FileExists(System.String)">
+            <summary>
+            Checks if a file exists.
+            </summary>
+            <param name="fileName">Name of the file.</param>
+            <returns>True if the file exists; otherwise, false.</returns>
+        </member>
+        <member name="M:Client.Logic.IO.IO.GetGfxPath(System.String)">
+            <summary>
+            Gets the full path of a file in the GFX directory.
+            </summary>
+            <param name="filename">The filename. (without directory name)</param>
+            <returns></returns>
+        </member>
+        <member name="T:Client.Logic.IO.Options">
+            <summary>
+            Handles and stores game options
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.Options.LoadOptions">
+            <summary>
+            Loads the options.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.IO.Options.SaveXml">
+            <summary>
+            Saves the XML document.
+            </summary>
+        </member>
+        <member name="P:Client.Logic.IO.Options.AutoSave">
+            <summary>
+            Gets or sets a value indicating whether the client will auto save.
+            </summary>
+            <value><c>true</c> if the client will auto save; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.Ping">
+            <summary>
+            gets or sets whether or not to ask for ping
+            </summary>
+        </member>
+        <member name="P:Client.Logic.IO.Options.FPS">
+            <summary>
+            gets or sets whether or not to ask for FPS
+            </summary>
+        </member>
+        <member name="P:Client.Logic.IO.Options.AutoSaveSpeed">
+            <summary>
+            Gets or sets the auto save speed.
+            </summary>
+            <value>The auto save speed.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.AutoScroll">
+            <summary>
+            Gets or sets a value indicating whether the client will auto scroll.
+            </summary>
+            <value><c>true</c> if the client will auto scroll; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.ConnectionIP">
+            <summary>
+            Gets or sets the connection IP.
+            </summary>
+            <value>The connection IP.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.ConnectionPort">
+            <summary>
+            Gets or sets the connection port.
+            </summary>
+            <value>The connection port.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.MapGrid">
+            <summary>
+            Gets or sets a value indicating whether [map grid].
+            </summary>
+            <value><c>true</c> if [map grid]; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.Music">
+            <summary>
+            Gets or sets a value indicating whether music is enabled.
+            </summary>
+            <value><c>true</c> if music is enabled; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.NpcBar">
+            <summary>
+            Gets or sets a value indicating whether NPC bar's are enabled.
+            </summary>
+            <value><c>true</c> if NPC bar's are enabled; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.NpcDamage">
+            <summary>
+            Gets or sets a value indicating whether NPC damage is displayed.
+            </summary>
+            <value><c>true</c> if NPC damage is displayed; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.NpcName">
+            <summary>
+            Gets or sets a value indicating whether NPC name's are displayed.
+            </summary>
+            <value><c>true</c> if NPC name's are displayed; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.PlayerBar">
+            <summary>
+            Gets or sets a value indicating whether the player health bar is displayed.
+            </summary>
+            <value><c>true</c> if the player health bar is displayed; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.PlayerDamage">
+            <summary>
+            Gets or sets a value indicating whether the player's damage is displayed.
+            </summary>
+            <value><c>true</c> if the player's damage is displayed; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.PlayerName">
+            <summary>
+            Gets or sets a value indicating whether the player's name is displayed.
+            </summary>
+            <value><c>true</c> if the player's name is displayed; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.SavedAccount">
+            <summary>
+            Gets or sets the saved account.
+            </summary>
+            <value>The saved account.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.SavedPassword">
+            <summary>
+            Gets or sets the saved password.
+            </summary>
+            <value>The saved password.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.Sound">
+            <summary>
+            Gets or sets a value indicating whether sound is enabled.
+            </summary>
+            <value><c>true</c> if sound is enabled; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.SpeechBubbles">
+            <summary>
+            Gets or sets a value indicating whether speech bubbles are enabled.
+            </summary>
+            <value><c>true</c> if speech bubbles are enabled; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:Client.Logic.IO.Options.Timestamps">
+            <summary>
+            Gets or sets a value indicating whether timestamps are enabled.
+            </summary>
+            <value><c>true</c> if timestamps are enabled; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="T:Client.Logic.Maps.MapItem">
+            <summary>
+            Description of MapItem.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Menus.mnuMoveRecall">
+            <summary>
+            Description of mnuLinkShop.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Menus.mnuShop">
+            <summary>
+            Description of mnuShop.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.FadeIn(System.Int32,System.Int32)">
+            <summary>
+            Fades the music in.
+            </summary>
+            <param name="numberOfTimes">The number of times.</param>
+            <param name="milliseconds">The milliseconds.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.FadeInPosition(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Fades the music in from the specified position.
+            </summary>
+            <param name="numberOfTimes">The number of times.</param>
+            <param name="milliseconds">The milliseconds.</param>
+            <param name="musicPosition">The music position.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.FadeOut(System.Int32)">
+            <summary>
+            Fades the music out.
+            </summary>
+            <param name="milliseconds">The length of the fade out.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.Pause">
+            <summary>
+            Pauses the playing music.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.PlayMusic(System.String)">
+            <summary>
+            Plays a music file continuosly.
+            </summary>
+            <param name="songName">The filename of the song to play. Excluding the folder path.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.PlayMusic(System.String,System.Int32)">
+            <summary>
+            Plays a music file a certain amount of times.
+            </summary>
+            <param name="songName">The filename of the song to play. Excluding the folder path.</param>
+            <param name="numberOfTimes">The number of times the song will be played.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.PlayMusic(System.String,System.Int32,System.Boolean,System.Boolean)">
+            <summary>
+            Plays the music.
+            </summary>
+            <param name="songName">Name of the song.</param>
+            <param name="numberOfTimes">The number of times.</param>
+            <param name="ignoreMusicSetting">if set to <c>true</c> [ignore music setting].</param>
+            <param name="ignoreIfPlaying">if set to <c>true</c> [ignore if playing].</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.PlaySoundEffect(System.String)">
+            <summary>
+            Plays a sound effect.
+            </summary>
+            <param name="soundEffectName">Name of the sound effect.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.Resume">
+            <summary>
+            Resumes playback.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.SetPosition(System.Double)">
+            <summary>
+            Sets the position of the music.
+            </summary>
+            <param name="musicPosition">The music position.</param>
+        </member>
+        <member name="M:Client.Logic.Music.MusicPlayerOld.StopMusic">
+            <summary>
+            Stops the music.
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Music.MusicPlayerOld.CurrentSong">
+            <summary>
+            Gets the current song.
+            </summary>
+            <value>The current song.</value>
+        </member>
+        <member name="P:Client.Logic.Music.MusicPlayerOld.Volume">
+            <summary>
+            Gets or sets the music volume.
+            </summary>
+            <value>The music volume.</value>
+        </member>
+        <member name="M:Client.Logic.Network.NetworkManager.Connect">
+            <summary>
+            Connects to the server.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Network.NetworkManager.InitializeTcp">
+            <summary>
+            Initializes a new instance of the <see cref="!:TcpManager"/> class.
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Network.NetworkManager.TcpClient">
+            <summary>
+            Gets the TCP client.
+            </summary>
+            <value>The TCP client.</value>
+        </member>
+        <member name="T:Client.Logic.ObjectCopier">
+            <summary>
+            Reference Article http://www.codeproject.com/KB/tips/SerializedObjectCloner.aspx
+            
+            Provides a method for performing a deep copy of an object.
+            Binary Serialization is used to perform the copy.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.ObjectCopier.CloneObject``1(``0)">
+            <summary>
+            Perform a deep Copy of the object.
+            </summary>
+            <typeparam name="T">The type of object being copied.</typeparam>
+            <param name="source">The object instance to copy.</param>
+            <returns>The copied object.</returns>
+        </member>
+        <member name="T:Client.Logic.Pokedex.Pokemon">
+            <summary>
+            Description of Pokedex.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Pokedex.PokemonCollection">
+            <summary>
+            Description of PokemonCollection.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Client.Logic.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Ranks">
+            <summary>
+            Description of Ranks.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Ranks.IsAllowed(Client.Logic.Players.IPlayer,Client.Logic.Enums.Rank)">
+            <summary>
+            Checks if the player has the specified rank permissions
+            </summary>
+            <param name="index">The index of the player to check</param>
+            <param name="RankToCheck">The rank permissions to test</param>
+            <returns>True if the player has the rank permissions; otherwise, false</returns>
+        </member>
+        <member name="M:Client.Logic.Ranks.IsDisallowed(Client.Logic.Players.IPlayer,Client.Logic.Enums.Rank)">
+            <summary>
+            Checks if the player does not have the specified rank permissions
+            </summary>
+            <param name="index">The index of the player to check</param>
+            <param name="RankToCheck">The rank permissions to test</param>
+            <returns>True if the player does not have the rank permissions; otherwise, false</returns>
+        </member>
+        <member name="M:Client.Logic.Ranks.GetRankColor(Client.Logic.Enums.Rank)">
+            <summary>
+            Gets the color associated with the specified rank
+            </summary>
+            <param name="rank">The rank used to determine the color returned</param>
+            <returns>The color associated with the specified rank</returns>
+        </member>
+        <member name="T:Client.Logic.RDungeons.RDungeon">
+            <summary>
+            Description of RDungeon.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.RDungeons.RDungeonCollection">
+            <summary>
+            Description of RDungeonCollection.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Sdl.SdlCore.QuitApplication">
+            <summary>
+            Quits the application.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Security.Admin.IsAdmin">
+            <summary>
+            Checks if the process is elevated
+            </summary>
+            <returns>If is elevated</returns>
+        </member>
+        <member name="T:Client.Logic.Security.Encryption">
+            <summary>
+            Provides methods used in encryption.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Client.Logic.Security.Encryption"/> class.
+            </summary>
+            <param name="key">The encryption key.</param>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Client.Logic.Security.Encryption"/> class.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.DecryptBytes(System.Byte[])">
+            <summary>
+            Decrypts the bytes.
+            </summary>
+            <param name="encryptedBytes">The encrypted bytes.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.DecryptData(System.String)">
+            <summary>
+            Decrypts the data.
+            </summary>
+            <param name="encryptedtext">The encrypted data.</param>
+            <returns>The decrypted string.</returns>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.EncryptBytes(System.Byte[])">
+            <summary>
+            Encrypts the bytes.
+            </summary>
+            <param name="bytesToEncrypt">The bytes to encrypt.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.EncryptData(System.String)">
+            <summary>
+            Encrypts the data.
+            </summary>
+            <param name="plaintext">The data to encrypt.</param>
+            <returns>The encrypted string.</returns>
+        </member>
+        <member name="M:Client.Logic.Security.Encryption.SetKey(System.String)">
+            <summary>
+            Sets the encryption key.
+            </summary>
+            <param name="key">The key.</param>
+        </member>
+        <member name="T:Client.Logic.Security.Hash">
+            <summary>
+            Class that creates MD5 hashes
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Security.Hash.GenerateMD5Hash(System.String)">
+            <summary>
+            Generates a MD5 hash based on the source text.
+            </summary>
+            <param name="SourceText">The text to hash.</param>
+            <returns>The hashed text as a Base64 string.</returns>
+        </member>
+        <member name="T:Client.Logic.Stories.Globals">
+            <summary>
+            Global variables for stories
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Network.Messenger">
+            <summary>
+            Handles sending common packets to the server.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Network.Messenger.SendLogin(System.String,System.String)">
+            <summary>
+            Sends the player's login information to the server.
+            </summary>
+            <param name="account">The account.</param>
+            <param name="password">The password.</param>
+        </member>
+        <member name="M:Client.Logic.Network.Messenger.SendUseChar(System.Int32)">
+            <summary>
+            Sends the character that the player will use to the server.
+            </summary>
+            <param name="charNum">The character num.</param>
+        </member>
+        <member name="M:Client.Logic.Network.Messenger.SendPlayerRequestNewMap(System.Boolean)">
+            <summary>
+            Sends a "requestnewmap" packet to the server.
+            </summary>
+            <param name="cancel">cancel or not</param>
+        </member>
+        <member name="M:Client.Logic.Network.Messenger.SendNeedMapResponse(System.Boolean)">
+            <summary>
+            Sends a response to the "checkformap" packet
+            </summary>
+            <param name="val">"yes" or "no</param>
+        </member>
+        <member name="T:Client.Logic.Tools">
+            <summary>
+            Provides misc. methods
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Tools.MessageBox(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            Displays a messagebox.
+            </summary>
+            <param name="caption">The caption.</param>
+            <param name="text">The text.</param>
+            <param name="buttons">The buttons.</param>
+            <param name="icon">The icon.</param>
+        </member>
+        <member name="M:Client.Logic.Tools.MessageBox(System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            Displays a messagebox.
+            </summary>
+            <param name="text">The text.</param>
+            <param name="buttons">The buttons.</param>
+            <param name="icon">The icon.</param>
+        </member>
+        <member name="M:Client.Logic.Tools.MessageBox(System.String,System.Windows.Forms.MessageBoxButtons)">
+            <summary>
+            Displays a messagebox.
+            </summary>
+            <param name="text">The text.</param>
+            <param name="buttons">The buttons.</param>
+        </member>
+        <member name="M:Client.Logic.Tools.MessageBox(System.String)">
+            <summary>
+            Displays a messagebox.
+            </summary>
+            <param name="text">The text.</param>
+        </member>
+        <member name="M:Client.Logic.Tools.CropImage(SdlDotNet.Graphics.Surface,System.Drawing.Rectangle)">
+            <summary>
+            Crops a surface from the specified surface.
+            </summary>
+            <param name="surfaceToCrop">The surface to crop.</param>
+            <param name="cropRectangle">The rectangle bounds to crop.</param>
+            <returns>The cropped surface.</returns>
+        </member>
+        <member name="M:Client.Logic.Tools.CombineImage(SdlDotNet.Graphics.Surface,SdlDotNet.Graphics.Surface)">
+            <summary>
+            Combines two surfaces together.
+            </summary>
+            <param name="bottomImage">The surface that will be used as the background.</param>
+            <param name="topImage">The surface that will be used as the foreground.</param>
+            <returns>The combined surface.</returns>
+        </member>
+        <member name="F:Client.Logic.Windows.Editors.ScriptEditor.frmScriptEditor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Windows.Editors.ScriptEditor.frmScriptEditor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Client.Logic.Windows.Editors.ScriptEditor.frmScriptEditor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Windows.Editors.winShopPanel">
+            <summary>
+            Description of winShopPanel.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.Windows.Core.GameScreen">
+            <summary>
+            The actual screen where the game is drawn onto.
+            </summary>
+        </member>
+        <member name="M:Client.Logic.Windows.Core.GameScreen.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Client.Logic.Windows.Core.GameScreen"/> class.
+            </summary>
+        </member>
+        <member name="T:Client.Logic.ShortcutBarBuilder">
+            <summary>
+            Class to add buttons to a ShortcutBar
+            </summary>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddShowMenuButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Show Menu' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddShowInvButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Show Inventory' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddShowMovesButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Show Moves' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddUseRecoveryItemButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Use Recovery Item' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddShowOnlineListButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Show Online List' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AddShowOptionsButtonToBar(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds the 'Show Options' button to the specified ShortcutBar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the button to</param>
+        </member>
+        <member name="M:Client.Logic.ShortcutBarBuilder.AssembleShortcutBarButtons(Client.Logic.Widgets.ShortcutBar)">
+            <summary>
+            Adds all buttons to the shortcut bar
+            </summary>
+            <param name="shortcutBar">The ShortcutBar to add the buttons to</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,82 @@
+[25/09/2014 14:33:42] Nami: ^^
+[25/09/2014 14:33:49] Nami: like it?
+[25/09/2014 14:33:56] Moeru: yepp
+[25/09/2014 14:34:08] Mei: Oh, the chores are after me again. 
+[25/09/2014 14:34:23] Moeru: nawww...
+[25/09/2014 14:34:25] Nami: you 2
+[25/09/2014 14:34:30] Nami: wanna join my guild?
+[25/09/2014 14:34:35] Moeru: yess
+[25/09/2014 14:34:39] Nami: kk
+[25/09/2014 14:34:42] Mei: No thanks o;
+[25/09/2014 14:34:46] Nami: k
+[25/09/2014 14:35:01] Nami: come
+[25/09/2014 14:37:26] Nami: Theres an HT here?
+[25/09/2014 14:37:30] Nami: wc
+[25/09/2014 15:18:21] Seven: what npc ?
+[25/09/2014 15:18:30] Nami: Umbreon
+[25/09/2014 15:18:39] Seven: wild or friendly
+[25/09/2014 15:18:47] Nami: Wild
+[25/09/2014 15:20:16] Nami: Wow
+[25/09/2014 15:20:23] Nami: I dont even know how you do it :o
+[25/09/2014 15:20:42] Seven: i dont really know how to explain it x.x;
+[25/09/2014 15:20:55] Nami: Wow lol
+[25/09/2014 15:21:15] Nami: Hmm
+[25/09/2014 15:21:23] Nami: Did you go to Properties?
+[25/09/2014 15:21:32] Seven: mhm
+[25/09/2014 15:21:53] Seven: you can add them from there, making them is abit harder though xD
+[25/09/2014 15:21:57] Seven: I didnt make this one
+[25/09/2014 15:22:01] Seven: It was already there
+[25/09/2014 15:22:05] Nami: Wait 
+[25/09/2014 15:22:19] Nami: did you got to Properties>NPC?
+[25/09/2014 15:22:29] Seven: mhm thats where you add them
+[25/09/2014 15:22:55] Nami: when you have the NPC ready
+[25/09/2014 15:22:59] Nami: Do i press X?
+[25/09/2014 15:23:06] Nami: Click*
+[25/09/2014 15:23:08] Seven: no go back to general and press ok
+[25/09/2014 15:23:15] Seven: then save
+[25/09/2014 15:24:17] Nami: when it says
+[25/09/2014 15:24:27] Nami: (100%) Umbreon
+[25/09/2014 15:24:33] Nami: and im trying to add an NPC
+[25/09/2014 15:24:36] Nami: it says 1 %
+[25/09/2014 15:25:02] Seven: did you set the spawn rate to 100
+[25/09/2014 15:26:21] Nami: Oh look
+[25/09/2014 15:26:32] Nami: NPC Duskerno
+[25/09/2014 15:26:36] Nami: i did this :o
+[25/09/2014 15:26:48] Seven: yay c:
+[25/09/2014 15:26:53] Nami: How do i edit script?
+[25/09/2014 15:26:57] Nami: Like what it says
+[25/09/2014 15:27:15] Seven: You cant change his, otherwise the real duskerno's would be changed
+[25/09/2014 15:27:22] Nami: Ahh
+[25/09/2014 15:27:29] Nami: How to change a pokemon to wild?
+[25/09/2014 15:27:45] Seven: You can tchange that for him either xD
+[25/09/2014 15:27:59] Nami: lol i meant for another pokemon
+[25/09/2014 15:28:07] Seven: Oh, you'd have to remake it
+[25/09/2014 15:28:30] Seven: or find a wild one and put that one in the house instead
+[25/09/2014 15:28:40] Nami: k
+[25/09/2014 15:28:42] Seven:  /findnpc pokemonname
+[25/09/2014 15:28:54] Seven: and add the number to your house
+[25/09/2014 15:29:22] Seven: but pre existing npc's you cant edit otherwise all the others will be changed
+[25/09/2014 15:30:08] Nami: Gible lol
+[25/09/2014 15:30:16] Nami: Yay thanks seven
+[25/09/2014 15:30:20] Nami: you helped me a lot
+[25/09/2014 15:30:21] Seven: no problem ~
+[25/09/2014 15:30:29] Nami: want a gible?
+[25/09/2014 15:30:35] Seven: sure .o
+[25/09/2014 15:30:40] Nami: go and recruit~
+[25/09/2014 15:30:53] Nami: None join?
+[25/09/2014 15:30:54] Nami: Lol
+[25/09/2014 15:30:59] Seven: nope :<
+[25/09/2014 15:31:19] Nami: Hey how do you edit Recruit rate?
+[25/09/2014 15:31:32] Seven: You'd have to make a whole new gible npc o:
+[25/09/2014 15:31:43] Nami: Ya and?
+[25/09/2014 15:32:18] Seven: there will be a RR area for you to fill out
+[25/09/2014 15:32:40] Nami: When i add the nPC?
+[25/09/2014 15:32:42] Nami: NPC*
+[25/09/2014 15:32:47] Seven: No, when you make a new one
+[25/09/2014 15:33:26] Nami: recruit~
+[25/09/2014 15:33:51] Nami: is it a boy or girL?
+[25/09/2014 15:33:53] Nami: girl*
+[25/09/2014 15:33:54] Seven: boy o:
+[25/09/2014 15:34:00] Nami: mine is a girl lol
+[25/09/2014 15:34:05] Seven: o:
+[25/09/2014 15:34:11] Nami: now let me edit

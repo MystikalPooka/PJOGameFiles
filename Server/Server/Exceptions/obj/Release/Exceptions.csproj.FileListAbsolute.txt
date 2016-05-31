@@ -1,0 +1,35 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Exceptions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Exceptions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Build\Server.Exceptions.dll
+C:\Users\Pizu\Desktop\server\server\Build\Server.Exceptions.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\Users\Pizu\Desktop\server\server\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+D:\PokemonJourneyOnline\Server's\Build\Server.Exceptions.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Exceptions.pdb
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Release\Server.Exceptions.dll
+D:\PokemonJourneyOnline\Server's\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\wamp\www\Pokemon Journey Online\Build\Server.Exceptions.dll
+C:\wamp\www\Pokemon Journey Online\Build\Server.Exceptions.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\wamp\www\Pokemon Journey Online\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Exceptions.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Exceptions.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Build\Server.Exceptions.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Build\Server.Exceptions.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Build\Server.Exceptions.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Server.Exceptions.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\Exceptions\obj\Release\Server.Exceptions.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Build\Server.Exceptions.pdb

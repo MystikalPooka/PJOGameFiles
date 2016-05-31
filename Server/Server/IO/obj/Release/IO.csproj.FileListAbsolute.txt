@@ -1,0 +1,35 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.IO.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.IO.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Release\Server.IO.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Release\Server.IO.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Build\Server.IO.dll
+C:\Users\Pizu\Desktop\server\server\Build\Server.IO.pdb
+C:\Users\Pizu\Desktop\server\server\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Server\IO\obj\Release\Server.IO.dll
+C:\Users\Pizu\Desktop\server\server\Server\IO\obj\Release\Server.IO.pdb
+D:\PokemonJourneyOnline\Server's\Build\Server.IO.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.IO.pdb
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Release\Server.IO.dll
+D:\PokemonJourneyOnline\Server's\Server\IO\obj\Release\Server.IO.pdb
+C:\wamp\www\Pokemon Journey Online\Build\Server.IO.dll
+C:\wamp\www\Pokemon Journey Online\Build\Server.IO.pdb
+C:\wamp\www\Pokemon Journey Online\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\IO\obj\Release\Server.IO.dll
+C:\wamp\www\Pokemon Journey Online\Server\IO\obj\Release\Server.IO.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.IO.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.IO.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\IO\obj\Release\Server.IO.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\IO\obj\Release\Server.IO.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Build\Server.IO.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Build\Server.IO.pdb
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\IO\obj\Release\Server.IO.dll
+C:\Users\Digimon Master\Desktop\PJOFiles\Server\Server\IO\obj\Release\Server.IO.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Build\Server.IO.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\IO\obj\Release\IO.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\IO\obj\Release\Server.IO.dll
+C:\Users\Frosty\Desktop\PJOFiles\Server\Server\IO\obj\Release\Server.IO.pdb
+C:\Users\Frosty\Desktop\PJOFiles\Server\Build\Server.IO.pdb

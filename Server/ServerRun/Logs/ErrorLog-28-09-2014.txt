@@ -1,0 +1,68 @@
+--- 14:10:47 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 14:11:54 ---
+Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at Server.Moves.MoveCollection.get_Item(Int32 index) in d:\PokemonJourneyOnline\Server's\Server\Server\Moves\MoveCollection.cs:line 71
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1021
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 17:25:55 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a15 Direction: Left Speed: Walking Map: rd-M)i93L!ka5Q((j4R X: 38 Y: 14
+
+--- 17:26:14 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a15 Direction: Left Speed: Running Map: rd-M)i93L!ka5Q((j4R X: 38 Y: 14
+
+--- 17:26:37 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a12 Direction: Up Speed: Walking Map: rd-M)i93L!ka5Q((j4R X: 38 Y: 14
+
+--- 17:28:13 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a12 Direction: Left Speed: Walking Map: rd-X(k9s4!K)M7bHg(8 X: 10 Y: 10
+
+--- 22:08:09 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Players.Recruit.SetSpecies(Int32 species) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 617
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3472
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

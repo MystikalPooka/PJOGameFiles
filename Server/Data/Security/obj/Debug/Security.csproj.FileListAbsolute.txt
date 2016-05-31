@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Debug\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Debug\Server.Security.pdb

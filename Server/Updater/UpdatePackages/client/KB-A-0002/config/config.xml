@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+   <Package>
+      <Name>Client Graphics Update</Name>
+      <Description>An update for the graphics used by the client.</Description>
+   </Package>
+</Configuration>

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\DataManager.xml
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\DataManager.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\DataManager.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\PMU.Core.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\PMU.DatabaseConnector.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\System.Data.SQLite.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\PMU.Core.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\bin\Release\PMU.DatabaseConnector.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\obj\Release\DataManager.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\obj\Release\DataManager.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache

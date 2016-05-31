@@ -1,0 +1,14 @@
+--- 19:47:57 ---
+Exception: System.Exception: Raw map data not found.
+   at DataManager.Maps.MapDataManager.LoadRawMap(MySql database, String mapID, RawMap rawMap) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 51
+   at DataManager.Maps.MapDataManager.LoadStandardMap(MySql database, String mapID) in c:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\DataManager\DataManager\Maps\MapDataManager.cs:line 682
+   at Server.Maps.MapManager.LoadStandardMap(DatabaseConnection dbConnection, String mapID) in C:\Users\Pizu\Desktop\server\server\Server\Server\Maps\MapManager.cs:line 77
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in C:\Users\Pizu\Desktop\server\server\Server\Server\Maps\MapManager.cs:line 353
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 518
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 3574
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

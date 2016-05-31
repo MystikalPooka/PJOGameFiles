@@ -1,0 +1,6 @@
+[07/09/2014 13:51:14] Player: 'Cincy' was stil in the client list, but disconnected. Removed from list.
+[21/09/2014 14:45:17] Player: 'Ghost' was stil in the client list, but disconnected. Removed from list.
+[21/09/2014 14:45:19] Player: 'Chipper' was stil in the client list, but disconnected. Removed from list.
+[24/09/2014 18:00:29] Player: 'pernuta' was stil in the client list, but disconnected. Removed from list.
+[24/09/2014 19:59:52] Player: 'Leavern' was stil in the client list, but disconnected. Removed from list.
+[29/09/2014 16:43:51] Player: 'Shinkei' was stil in the client list, but disconnected. Removed from list.

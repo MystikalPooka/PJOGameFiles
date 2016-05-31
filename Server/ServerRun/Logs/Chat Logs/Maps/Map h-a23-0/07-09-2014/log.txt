@@ -1,0 +1,183 @@
+[07/09/2014 14:06:07] Zerius: What's this?
+[07/09/2014 14:06:48] Zerius: I'll fix it for you, one second.
+[07/09/2014 14:07:04] Swordmaster: sorry still in global
+[07/09/2014 14:07:17] Swordmaster: hi cincy
+[07/09/2014 14:07:31] Zerius: Umm.
+[07/09/2014 14:07:42] Zerius: One minute.
+[07/09/2014 14:07:50] Zerius: Need to check the average house size.
+[07/09/2014 14:08:03] Swordmaster: umm u know i can just edit it
+[07/09/2014 14:08:34] Swordmaster: ummm he does i know i can just delete all of it
+[07/09/2014 14:08:43] Swordmaster: with /edithouse
+[07/09/2014 14:09:16] Swordmaster: ummm zerius
+[07/09/2014 14:09:23] Zerius: ?
+[07/09/2014 14:09:40] Swordmaster: u know i can just edit this and make it how i want it right?
+[07/09/2014 14:09:54] Cincy: Swordmaster ?
+[07/09/2014 14:10:08] Swordmaster: Plz just Sword will do
+[07/09/2014 14:10:09] Cincy: what was your pmu name ?
+[07/09/2014 14:10:17] Swordmaster: NaruHina whu?
+[07/09/2014 14:10:35] Swordmaster: why?*
+[07/09/2014 14:10:47] Cincy: no reason 
+[07/09/2014 14:10:52] Cincy: just fun to know
+[07/09/2014 14:20:58] Cincy: hi
+[07/09/2014 14:21:05] Cincy: jut looking
+[07/09/2014 14:21:11] Cincy: just
+[07/09/2014 14:21:15] Swordmaster: umm io'm still ediditing
+[07/09/2014 14:21:20] Swordmaster: i'm*
+[07/09/2014 14:45:55] Swordmaster: hi?
+[07/09/2014 14:46:10] Yuri: Hmm.
+[07/09/2014 14:46:13] Swordmaster: sorry still edititng
+[07/09/2014 15:01:53] Yuri: I'm on fireee heelp
+[07/09/2014 15:01:57] Swordmaster: hi
+[07/09/2014 15:01:57] Yuri: wait i'm a fire type
+[07/09/2014 15:02:03] Swordmaster: sorry 
+[07/09/2014 15:09:15] Ghost: Its working fine o:
+[07/09/2014 15:09:17] Swordmaster: how did?
+[07/09/2014 15:09:36] Ghost: I just edited
+[07/09/2014 15:09:37] Swordmaster: i cant
+[07/09/2014 15:09:40] Ghost: It works fine
+[07/09/2014 15:09:48] Swordmaster: i seriously cant
+[07/09/2014 15:09:49] Ghost: Make sure you're switching back over to terrain
+[07/09/2014 15:09:59] Ghost: Like click the terrain button
+[07/09/2014 15:10:10] Swordmaster: i aint blocking
+[07/09/2014 15:10:16] Swordmaster: anything watch
+[07/09/2014 15:10:17] Ghost: I know
+[07/09/2014 15:10:47] Swordmaster: what?
+[07/09/2014 15:10:52] Ghost: ?
+[07/09/2014 15:11:00] Swordmaster: before it didnt let me build
+[07/09/2014 15:11:20] Ghost: Is it working now ?
+[07/09/2014 15:11:57] Swordmaster: can u see this
+[07/09/2014 15:12:00] Ghost: mhm
+[07/09/2014 15:12:08] Swordmaster: good
+[07/09/2014 15:12:16] Swordmaster: mmm that was suspicious
+[07/09/2014 15:12:36] Swordmaster: i didnt let me build before
+[07/09/2014 15:12:46] Ghost: o:
+[07/09/2014 15:12:46] Swordmaster: oh well
+[07/09/2014 15:23:54] Swordmaster: ghost help me plz
+[07/09/2014 15:23:59] Ghost: Hm ?
+[07/09/2014 15:24:11] Swordmaster: what thing can be fire
+[07/09/2014 15:24:21] Ghost: What do you mean ? o:
+[07/09/2014 15:24:23] Swordmaster: i'm making domains
+[07/09/2014 15:24:47] Swordmaster: like a fire,water, grass and a whatever domain
+[07/09/2014 15:25:01] Ghost: I think there's some volcanice plants and rocks in the tiles
+[07/09/2014 15:25:06] Ghost: volcanic(
+[07/09/2014 15:25:08] Ghost: *
+[07/09/2014 15:25:10] Swordmaster: which tiles
+[07/09/2014 15:25:21] Swordmaster: tileset
+[07/09/2014 15:25:30] Ghost: surface
+[07/09/2014 15:25:32] Ghost: probably
+[07/09/2014 15:25:35] Swordmaster: thanks
+[07/09/2014 15:25:39] Ghost: Mhm o:
+[07/09/2014 15:26:09] Ghost: Why isnt this fringed ?
+[07/09/2014 15:26:22] Ghost: Same with the fire
+[07/09/2014 15:26:42] Swordmaster: fringed?
+[07/09/2014 15:26:46] Ghost: The fringe layer
+[07/09/2014 15:26:59] Ghost: Anything you would walk behind or under goes on fringe
+[07/09/2014 15:26:59] Swordmaster: what do u mean>
+[07/09/2014 15:27:11] Swordmaster: i blocked
+[07/09/2014 15:27:12] Ghost: Under the layers
+[07/09/2014 15:27:15] Ghost: I know but
+[07/09/2014 15:27:19] Ghost: You'd walk behind it
+[07/09/2014 15:27:22] Ghost: not around it
+[07/09/2014 15:27:32] Ghost: May I edit ?
+[07/09/2014 15:27:50] Swordmaster: umm sure i guess i trust u though
+[07/09/2014 15:29:07] Ghost: you'd walk behind the fire
+[07/09/2014 15:29:11] Ghost: Not around
+[07/09/2014 15:29:26] Swordmaster: can u do it with the rest plz
+[07/09/2014 15:29:33] Swordmaster: like this fire
+[07/09/2014 15:29:43] Ghost: If I did it with the rest you wouldn't learn how to do it ~
+[07/09/2014 15:29:53] Ghost: Try putting the top of the fire on the fringe layer.
+[07/09/2014 15:29:55] Swordmaster: how plz teacj me
+[07/09/2014 15:29:57] Ghost: Only the top
+[07/09/2014 15:30:03] Swordmaster: ok
+[07/09/2014 15:30:09] Swordmaster: where would this fire be?
+[07/09/2014 15:30:18] Ghost: The same place you found this o:
+[07/09/2014 15:30:27] Swordmaster: surface
+[07/09/2014 15:30:35] Ghost: You're just taking the top of that and putting it on fringe
+[07/09/2014 15:30:41] Ghost: I think its under homes or somthing
+[07/09/2014 15:33:48] Swordmaster: hang on still need to get it
+[07/09/2014 15:33:56] Ghost: take your time o:
+[07/09/2014 15:40:20] Swordmaster: do u mind finding it and tell m where it is plz
+[07/09/2014 15:40:29] Ghost: it's under homes
+[07/09/2014 15:40:33] Swordmaster: ok
+[07/09/2014 15:41:57] Swordmaster: which fringe?
+[07/09/2014 15:42:10] Ghost: just regular fringe o:
+[07/09/2014 15:42:37] Swordmaster: do u mind moving plz
+[07/09/2014 15:43:28] Swordmaster: not again
+[07/09/2014 15:43:34] Ghost: Hm ?
+[07/09/2014 15:43:41] Ghost: Click Terrain at the top when you go to edit
+[07/09/2014 15:43:43] Swordmaster: its doing it again
+[07/09/2014 15:45:02] Swordmaster: how do i make it move?
+[07/09/2014 15:45:11] Ghost: You animate it o:
+[07/09/2014 15:45:17] Swordmaster: how?
+[07/09/2014 15:45:23] Ghost: When you saw the fire was there a second fire next to it ?
+[07/09/2014 15:45:30] Swordmaster: yes
+[07/09/2014 15:45:33] Swordmaster: why?
+[07/09/2014 15:45:53] Ghost: Click the check mark on the animate box in the layers and place the tiles of the other fire over this one
+[07/09/2014 15:46:49] Swordmaster: yay
+[07/09/2014 15:46:55] Swordmaster: but its not right
+[07/09/2014 15:47:07] Ghost: Hm 
+[07/09/2014 15:47:10] Ghost: May I look ?
+[07/09/2014 15:47:31] Swordmaster: of course
+[07/09/2014 15:47:54] Swordmaster: i want it to be just lik the other on
+[07/09/2014 15:48:54] Swordmaster: thanks
+[07/09/2014 15:49:01] Ghost: The problem was you didnt remove the one on mas
+[07/09/2014 15:49:03] Swordmaster: finally i can continue
+[07/09/2014 15:49:03] Ghost: mask *
+[07/09/2014 15:49:10] Swordmaster: sorry
+[07/09/2014 15:49:22] Ghost: Other than that it was fine o;
+[07/09/2014 15:49:23] Swordmaster: thats my throne ya know
+[07/09/2014 15:49:33] Ghost: :<
+[07/09/2014 15:49:44] Swordmaster: the house entrance is gonna be here
+[07/09/2014 15:49:51] Ghost: o:
+[07/09/2014 15:50:14] Swordmaster: and says 'welcome to King Swords domain
+[07/09/2014 15:50:39] Ghost: Who are you on PMU ?
+[07/09/2014 15:50:53] Swordmaster: NaruHina why?
+[07/09/2014 15:50:59] Ghost: ah, just curious o:
+[07/09/2014 15:51:14] Swordmaster: really thats what cincy said
+[07/09/2014 15:51:27] Ghost: o:
+[07/09/2014 15:51:46] Ghost: I like being able to know who i'm speaking with ~
+[07/09/2014 15:51:53] Swordmaster: ok
+[07/09/2014 15:52:19] Swordmaster: u know fierying introduced me to this game
+[07/09/2014 15:52:29] Swordmaster: PJO
+[07/09/2014 15:52:31] Ghost: He seems very nice
+[07/09/2014 15:52:54] Swordmaster: yes becuase he is my friend on PMU too
+[07/09/2014 15:53:03] Ghost: o:
+[07/09/2014 15:53:17] Swordmaster: u seem surprised
+[07/09/2014 15:53:52] Ghost: Not really, he seems very friendly o:
+[07/09/2014 15:53:58] Swordmaster: he is
+[07/09/2014 15:54:07] Ghost: He makes very good sprites too
+[07/09/2014 15:54:30] Swordmaster: u know u should really add lillipup to this
+[07/09/2014 15:54:46] Ghost: We don't have a sprite for it sadly :<
+[07/09/2014 15:54:46] Swordmaster: u know why
+[07/09/2014 15:54:54] Swordmaster: what
+[07/09/2014 15:55:06] Ghost: Someone has to make a Lillipup before we can add it
+[07/09/2014 15:55:18] Swordmaster: oh well i cant sorry
+[07/09/2014 15:55:36] Swordmaster: hi yuri
+[07/09/2014 15:55:53] Yuri: Hiya
+[07/09/2014 15:56:58] Swordmaster: whatcha doing
+[07/09/2014 15:57:11] Swordmaster: come here
+[07/09/2014 15:57:25] Swordmaster: ur like fire types dont ya
+[07/09/2014 15:57:33] Yuri: "V
+[07/09/2014 15:57:41] Swordmaster: well if ya have rest
+[07/09/2014 15:57:54] Swordmaster: feel free do go rest at the fire domain
+[07/09/2014 15:58:15] Swordmaster: wii fight
+[07/09/2014 15:58:16] Swordmaster: ?
+[07/09/2014 15:58:17] Yuri: Just um.
+[07/09/2014 15:58:19] Yuri: Gonna go.
+[07/09/2014 15:58:29] Ghost: Hey Sword ? o:
+[07/09/2014 15:58:39] Swordmaster: whats up with 'im
+[07/09/2014 15:58:45] Swordmaster: and yes?
+[07/09/2014 15:58:52] Ghost: Staff buisness to attend to o:
+[07/09/2014 15:58:58] Swordmaster: og ok
+[07/09/2014 15:59:02] Swordmaster: oh ok*
+[07/09/2014 15:59:32] Swordmaster: right i'll keep workin' 'ere then
+[07/09/2014 15:59:36] Ghost: I think you should try to practice mapping more and expirament with things before you apply for mapper o: Being mapper is really hard and alot of work and you have to be able to do alot o:
+[07/09/2014 15:59:50] Swordmaster: i know
+[07/09/2014 16:00:11] Ghost: So just keep practicing and maybe apply later ? o:
+[07/09/2014 16:00:24] Swordmaster: i wanna do a few things with the grass and whatever domain
+[07/09/2014 16:00:59] Swordmaster: what was up with yuri just than
+[07/09/2014 16:01:10] Ghost: Staffly buisness o:
+[07/09/2014 16:01:23] Swordmaster: he had an ummm u know
+[07/09/2014 16:01:39] Swordmaster: oh well better not worry bout it then
+[07/09/2014 16:03:17] Ghost: I'll be back to check on you later o:
+[07/09/2014 16:15:11] Swordmaster: huh who is :

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Debug\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Debug\Server.Security.pdb
+D:\PokemonJourneyOnline\Server's\Build\Server.Security.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Security.pdb
+D:\PokemonJourneyOnline\Server's\Server\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Security\obj\Debug\Server.Security.dll
+D:\PokemonJourneyOnline\Server's\Server\Security\obj\Debug\Server.Security.pdb

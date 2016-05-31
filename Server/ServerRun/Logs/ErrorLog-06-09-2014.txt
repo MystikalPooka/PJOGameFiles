@@ -1,0 +1,687 @@
+--- 16:36:20 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 113
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 16:48:54 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:48:56 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:48:57 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:48:58 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:48:59 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:00 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:01 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:02 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:03 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:04 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:05 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:06 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:07 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:08 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:09 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:10 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:11 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:12 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:14 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:15 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:16 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:17 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:18 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:19 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:49:20 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Statistics.PerformanceStatistics.DumpStatistics() in C:\Users\Pizu\Desktop\server\server\Server\Server\Statistics\PerformanceStatistics.cs:line 63
+   at Server.Events.World.StatisticSaverTimedEvent.OnTimeElapsed(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\StatisticSaverTimedEvent.cs:line 61
+   at Server.Events.World.TimedEventManager.Process(TickCount currentTick) in C:\Users\Pizu\Desktop\server\server\Server\Server\Events\World\TimedEventManager.cs:line 104
+   at Server.AI.AIProcessor.ProcessAI(Object obj) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\AIProcessor.cs:line 96
+Additional Data: AIProcessor
+
+--- 16:58:31 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Maps.MapManager.RetrieveMap(String mapID, Boolean autoActivate) in C:\Users\Pizu\Desktop\server\server\Server\Server\Maps\MapManager.cs:line 352
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck, Boolean playSound) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 526
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y, Boolean tileCheck) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 522
+   at Server.Network.Messenger.PlayerWarp(Client client, Int32 mapNum, Int32 x, Int32 y) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Messenger.cs:line 518
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in C:\Users\Pizu\Desktop\server\server\Server\Server\AI\MovementProcessor.cs:line 650
+Additional Data: Player movement processing, Index: a9 Direction: Up Speed: Running Map: s737 X: 38 Y: 35
+
+--- 17:05:35 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 113
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 17:06:59 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 113
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 17:07:12 ---
+Exception: System.Exception: Error opening connection to the sql server. Error: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 83
+   --- End of inner exception stack trace ---
+   at PMU.DatabaseConnector.MySql.MySql.OpenConnection() in C:\programming\pc\hg.pmu7\framework\DatabaseConnecter\DatabaseConnector\MySql\MySql.cs:line 94
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 113
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

@@ -1,0 +1,322 @@
+--- 09:50:17 ---
+Exception: System.IO.FileNotFoundException: Could not find file 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa12\.cs'.
+File name: 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa12\.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3116
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 09:50:18 ---
+Exception: System.IO.FileNotFoundException: Could not find file 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa12\.cs'.
+File name: 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa12\.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3116
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 10:19:04 ---
+Exception: System.IO.FileNotFoundException: Could not find file 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa16\.cs'.
+File name: 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa16\.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3116
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 10:19:30 ---
+Exception: System.IO.FileNotFoundException: Could not find file 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa16\.cs'.
+File name: 'D:\PokemonJourneyOnline\Server's\ServerRun\Scripts\Tempa16\.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3116
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 14:22:14 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 14:30:29 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 17:41:50 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 18:31:07 ---
+Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Server.Maps.MapManager.RetrieveActiveMap(String mapID) in d:\PokemonJourneyOnline\Server's\Server\Server\Maps\MapManager.cs:line 166
+   at Server.Players.Player.get_Map() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.Data.cs:line 301
+   at Server.Network.PacketBuilder.AppendPlayerData(Client client, Boolean sendMyPlayerData, PacketHitList packetList) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\PacketBuilder.cs:line 881
+   at Server.Network.Messenger.SendJoinGame(Client client) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1342
+Additional Data: Login, sending join game info
+
+--- 18:31:55 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:28:28 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:28:44 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:28:50 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:28:53 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:30:25 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:30:31 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:04 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:12 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:19 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:22 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:23 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:24 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:33:38 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:35:25 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:53:23 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 20:56:56 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1201
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 21:43:48 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 738
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 23:06:08 ---
+Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Network.Messenger.SendHP(Client client, Int32 recruitIndex) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Messenger.cs:line 1268
+   at Server.Players.Recruit.AddToActiveItemList(Int32 itemNum) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 375
+   at Server.Players.Recruit.LoadActiveItemList() in d:\PokemonJourneyOnline\Server's\Server\Server\Players\RecruitDB.cs:line 333
+   at Server.Players.Player.AddToTeam(Int32 recruitIndex, Int32 teamSlot) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 302
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 1201
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+
+--- 23:23:20 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a15 Direction: Up Speed: Running Map: rd-d)2M!Qy8W9(q!a3E X: 28 Y: 9
+
+--- 23:25:10 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a15 Direction: Left Speed: Running Map: rd-d)2M!Qy8W9(q!a3E X: 28 Y: 9
+
+--- 23:25:36 ---
+Exception: System.ArgumentOutOfRangeException: 'minValue' cannot be greater than maxValue.
+Parameter name: minValue
+   at System.Random.Next(Int32 minValue, Int32 maxValue)
+   at Server.RDungeons.DungeonArrayFloor.createVHall(Int32 hallX, Int32 hallY, GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 1415
+   at Server.RDungeons.DungeonArrayFloor..ctor(GeneratorOptions options, RDungeonChamberReq req) in d:\PokemonJourneyOnline\Server's\Server\RDungeons\DungeonArrayFloor.cs:line 323
+   at Server.RDungeons.RDungeonFloorGen.GenerateFloor(Client client, Int32 dungeonIndex, Int32 floorNum, GeneratorOptions options) in d:\PokemonJourneyOnline\Server's\Server\Server\RDungeons\RDungeonFloorGen.cs:line 49
+   at Server.Players.Player.WarpToRDungeon(Int32 dungeonNum, Int32 floor) in d:\PokemonJourneyOnline\Server's\Server\Server\Players\PlayerDB.cs:line 1204
+   at Server.AI.MovementProcessor.ProcessMovement(Client client, Direction direction, Speed speed, Boolean critical) in d:\PokemonJourneyOnline\Server's\Server\Server\AI\MovementProcessor.cs:line 831
+Additional Data: Player movement processing, Index: a15 Direction: Left Speed: Running Map: rd-d)2M!Qy8W9(q!a3E X: 28 Y: 9
+

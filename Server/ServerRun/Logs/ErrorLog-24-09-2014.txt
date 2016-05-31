@@ -1,0 +1,16 @@
+--- 16:38:19 ---
+Exception: System.IO.IOException: The process cannot access the file 'D:\PokemonJourneyOnline\Server's\ServerRun\Logs\Chat Logs\Maps\Map rd-5t)PY(3a9c!Hf!S6\23-09-2014\log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Server.Logging.Logger.SaveLogs() in d:\PokemonJourneyOnline\Server's\Server\Server\Logging\Logger.cs:line 93
+   at Server.Logging.Logger.AppendToLog(String logFilePath, String dataToAppend, Boolean includeDate) in d:\PokemonJourneyOnline\Server's\Server\Server\Logging\Logger.cs:line 65
+   at Server.Logging.ChatLogger.AppendToChatLog(String chatChannel, String text) in d:\PokemonJourneyOnline\Server's\Server\Server\Logging\ChatLogger.cs:line 35
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 593
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in d:\PokemonJourneyOnline\Server's\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

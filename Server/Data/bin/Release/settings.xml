@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <General>
+    <AutoSave>False</AutoSave>
+    <AutoSaveSpeed>0</AutoSaveSpeed>
+    <AutoScroll>False</AutoScroll>
+    <Music>False</Music>
+    <NpcBar>False</NpcBar>
+    <NpcDamage>False</NpcDamage>
+    <NpcName>False</NpcName>
+    <PlayerBar>False</PlayerBar>
+    <PlayerDamage>False</PlayerDamage>
+    <PlayerName>False</PlayerName>
+    <SavedAccount />
+    <SavedPassword />
+    <Sound>False</Sound>
+    <SpeechBubbles>False</SpeechBubbles>
+    <Timestamps>False</Timestamps>
+    <ActiveSkin>Main Theme</ActiveSkin>
+  </General>
+  <ConnectionInfo>
+    <Port>25565</Port>
+    <Server>pjo.pokemon-adventures.eu</Server>
+    <UpdateLink />
+    <SFXLink />
+    <MusicLink />
+  </ConnectionInfo>
+  <Editor>
+    <MapGrid>False</MapGrid>
+    <DisplayAttributes>False</DisplayAttributes>
+    <DragAndPlace>False</DragAndPlace>
+  </Editor>
+</Options>

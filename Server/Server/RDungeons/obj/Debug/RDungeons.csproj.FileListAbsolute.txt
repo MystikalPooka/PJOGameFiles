@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.RDungeons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.RDungeons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\RDungeons\obj\Debug\Server.RDungeons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\RDungeons\obj\Debug\Server.RDungeons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\RDungeons\obj\Debug\RDungeons.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Build\Server.RDungeons.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.RDungeons.pdb
+D:\PokemonJourneyOnline\Server's\Server\RDungeons\obj\Debug\RDungeons.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\RDungeons\obj\Debug\Server.RDungeons.dll
+D:\PokemonJourneyOnline\Server's\Server\RDungeons\obj\Debug\Server.RDungeons.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Emoticons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Emoticons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Server.Emoticons.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Server.Emoticons.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Emoticons\obj\Debug\Emoticons.csprojResolveAssemblyReference.cache

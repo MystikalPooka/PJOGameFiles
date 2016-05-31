@@ -1,0 +1,7 @@
+--- 18:33:21 ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 3360
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\MessageProcessor.cs:line 74
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in C:\Users\Pizu\Desktop\server\server\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

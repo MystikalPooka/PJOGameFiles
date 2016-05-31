@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Scripting.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Scripting.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Scripting\obj\Debug\Server.Scripting.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Scripting\obj\Debug\Server.Scripting.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Scripting\obj\Debug\Scripting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+   <Package>
+      <Name>KB-A-0000</Name>
+      <Description>An update for the updater. This update needs to be installed before other updates can be installed.</Description>
+   </Package>
+</Configuration>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataManager</name>
+    </assembly>
+    <members>
+        <member name="P:DataManager.Players.PlayerDataJobListItem.Data1">
+            <summary>
+            Item number if Mission Type is Item Retrieval. If Escort, pokemon number.
+            </summary>
+        </member>
+        <member name="P:DataManager.Players.PlayerDataJobListItem.Data2">
+            <summary>
+            Item amount if Mission Type is Item Retrieval.
+            </summary>
+        </member>
+        <member name="M:DataManager.Players.PlayerDataManager.DeletePlayerRecruit(PMU.DatabaseConnector.MySql.MySql,System.String,System.Int32,System.Boolean)">
+            <summary>
+            Will mark a recruit slot as deleted, allowing it to be overwritten. If inTempMode is true, the entry will be deleted instead.
+            </summary>
+            <param name="database">The database.</param>
+            <param name="charID">The char ID.</param>
+            <param name="recruitIndex">Index of the recruit.</param>
+            <param name="inTempMode">if set to <c>true</c>, the temporary recruit will be deleted. Otherwise, the main recruit will be deleted.</param>
+        </member>
+        <member name="M:DataManager.Players.PlayerFriendsList.AddFriend(PMU.DatabaseConnector.MySql.MySql,System.String)">
+            <summary>
+            Adds a new friend. Return codes are as follows:
+            <list type="table">
+            <item>
+            0 - Success
+            </item>
+            <item>
+            1 - Friend is already on list
+            </item>
+            </list>
+            </summary>
+            <param name="name"></param>
+        </member>
+        <member name="M:DataManager.Players.PlayerFriendsList.RemoveFriend(PMU.DatabaseConnector.MySql.MySql,System.String)">
+            <summary>
+            Removes a friend based on name. Return codes are as follows:
+            <list type="number">
+            <item>
+            0 - Success
+            </item>
+            <item>
+            1 - Friend not found
+            </item>
+            </list>
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

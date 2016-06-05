@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Security.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Pizu\Desktop\server\server\Build\Server.Security.dll
+C:\Users\Pizu\Desktop\server\server\Build\Server.Security.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\Pizu\Desktop\server\server\Server\Security\obj\Release\Server.Security.pdb
+D:\PokemonJourneyOnline\Server's\Build\Server.Security.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Security.pdb
+D:\PokemonJourneyOnline\Server's\Server\Security\obj\Release\Server.Security.dll
+D:\PokemonJourneyOnline\Server's\Server\Security\obj\Release\Server.Security.pdb
+C:\wamp\www\Pokemon Journey Online\Build\Server.Security.dll
+C:\wamp\www\Pokemon Journey Online\Build\Server.Security.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\Security\obj\Release\Server.Security.dll
+C:\wamp\www\Pokemon Journey Online\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Security.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Security.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Build\Server.Security.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Build\Server.Security.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Security\obj\Release\Server.Security.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Security\obj\Release\Server.Security.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Build\Server.Security.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Build\Server.Security.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Security\obj\Release\Security.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Security\obj\Release\Server.Security.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Security\obj\Release\Server.Security.pdb

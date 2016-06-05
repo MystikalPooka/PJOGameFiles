@@ -1,0 +1,1 @@
+start Server.exe -overridepath "..\Data"

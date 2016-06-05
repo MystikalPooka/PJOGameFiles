@@ -1,0 +1,35 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Core.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Build\Server.Core.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Core\obj\Release\Server.Core.dll
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Core\obj\Release\Server.Core.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Build\Server.Core.dll
+C:\Users\Pizu\Desktop\server\server\Build\Server.Core.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Server\Core\obj\Release\Server.Core.dll
+C:\Users\Pizu\Desktop\server\server\Server\Core\obj\Release\Server.Core.pdb
+D:\PokemonJourneyOnline\Server's\Build\Server.Core.dll
+D:\PokemonJourneyOnline\Server's\Build\Server.Core.pdb
+D:\PokemonJourneyOnline\Server's\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Core\obj\Release\Server.Core.dll
+D:\PokemonJourneyOnline\Server's\Server\Core\obj\Release\Server.Core.pdb
+C:\wamp\www\Pokemon Journey Online\Build\Server.Core.dll
+C:\wamp\www\Pokemon Journey Online\Build\Server.Core.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\Core\obj\Release\Server.Core.dll
+C:\wamp\www\Pokemon Journey Online\Server\Core\obj\Release\Server.Core.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Core.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Build\Server.Core.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Core\obj\Release\Server.Core.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Core\obj\Release\Server.Core.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Build\Server.Core.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Build\Server.Core.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Core\obj\Release\Server.Core.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Core\obj\Release\Server.Core.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Build\Server.Core.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Build\Server.Core.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Core\obj\Release\Server.Core.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Core\obj\Release\Server.Core.pdb

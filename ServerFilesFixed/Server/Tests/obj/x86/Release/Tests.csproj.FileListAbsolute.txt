@@ -1,0 +1,77 @@
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\bin\Release\Server.Tests.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\bin\Release\Server.Tests.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Release\Server.Tests.pdb
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Nest\Projects\Design\PMU\Hg\server\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\Users\Pizu\Desktop\server\server\Server\Tests\bin\Release\Server.Tests.exe
+C:\Users\Pizu\Desktop\server\server\Server\Tests\bin\Release\Server.Tests.pdb
+C:\Users\Pizu\Desktop\server\server\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pizu\Desktop\server\server\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\Users\Pizu\Desktop\server\server\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\Users\Pizu\Desktop\server\server\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\Users\Pizu\Desktop\server\server\Server\Tests\obj\x86\Release\Server.Tests.pdb
+D:\PokemonJourneyOnline\Server's\Server\Tests\bin\Release\Server.Tests.exe
+D:\PokemonJourneyOnline\Server's\Server\Tests\bin\Release\Server.Tests.pdb
+D:\PokemonJourneyOnline\Server's\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+D:\PokemonJourneyOnline\Server's\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+D:\PokemonJourneyOnline\Server's\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+D:\PokemonJourneyOnline\Server's\Server\Tests\obj\x86\Release\Server.Tests.exe
+D:\PokemonJourneyOnline\Server's\Server\Tests\obj\x86\Release\Server.Tests.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Tests.exe.config
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Tests.exe
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Tests.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Core.dll
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Exceptions.dll
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.IO.dll
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Core.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.Exceptions.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Tests\bin\Release\Server.IO.pdb
+C:\wamp\www\Pokemon Journey Online\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\wamp\www\Pokemon Journey Online\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\wamp\www\Pokemon Journey Online\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\wamp\www\Pokemon Journey Online\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\wamp\www\Pokemon Journey Online\Server\Tests\obj\x86\Release\Server.Tests.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Tests.exe.config
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Tests.exe
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Tests.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Core.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Exceptions.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.IO.dll
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Core.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.Exceptions.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\bin\Release\Server.IO.pdb
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\Users\Administrator\Desktop\Pokemon\pjo\Server\Server\Tests\obj\x86\Release\Server.Tests.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Tests.exe.config
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Tests.exe
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Tests.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Core.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Exceptions.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.IO.dll
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Core.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.Exceptions.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\bin\Release\Server.IO.pdb
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\Users\Bradley\Desktop\PJOBUILDINGFILES\Server\Server\Tests\obj\x86\Release\Server.Tests.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Tests.exe.config
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Tests.exe
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Tests.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Core.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Exceptions.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.IO.dll
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Core.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.Exceptions.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\bin\Release\Server.IO.pdb
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\obj\x86\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\obj\x86\Release\Server.Tests.Properties.Resources.resources
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\obj\x86\Release\Tests.csproj.GenerateResource.Cache
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\obj\x86\Release\Server.Tests.exe
+C:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Tests\obj\x86\Release\Server.Tests.pdb

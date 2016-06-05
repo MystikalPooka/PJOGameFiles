@@ -1,0 +1,11 @@
+--- 1:53:59 AM ---
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.AI.MovementProcessor.WillCharacterSeeCharacter(IMap viewerMap, ICharacter viewer, IMap targetMap, MapID targetMapID, ICharacter target) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\AI\MovementProcessor.cs:line 1276
+   at Server.Players.Player.RecreateSeenCharacters() in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Players\PlayerDB.cs:line 1543
+   at Server.Network.PacketBuilder.AppendJoinMap(Client client, PacketHitList hitlist) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Network\PacketBuilder.cs:line 1127
+   at Server.Network.Messenger.NeedMapCheck(Client client, Boolean[] results) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Network\Messenger.cs:line 279
+   at Server.Network.MessageProcessor.ProcessData(Client client, String[] parse) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Network\MessageProcessor.cs:line 464
+   at Server.Network.MessageProcessor.ProcessData(Client client, String data) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Network\MessageProcessor.cs:line 75
+   at Server.Network.Client.Tcp_DataReceived(Object sender, DataReceivedEventArgs e) in c:\Users\Frosty\Desktop\PJOFiles\ServerTempFx\Server\Server\Network\Client.cs:line 229
+Additional Data: Tcp_DataRecieved
+

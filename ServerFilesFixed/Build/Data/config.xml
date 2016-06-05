@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+	<Settings>
+		<GamePort>25565</GamePort>
+		<DatabaseIP>127.0.0.1</DatabaseIP>
+		<DatabasePort>3306</DatabasePort>
+		<DatabaseUser>root</DatabaseUser>
+		<DatabasePassword>Pokemon944</DatabasePassword>
+	</Settings>
+</Data>

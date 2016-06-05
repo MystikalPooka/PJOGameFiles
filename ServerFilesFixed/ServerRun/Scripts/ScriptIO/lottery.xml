@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lottery>
+  <Data>
+    <Payout>0</Payout>
+    <Earnings>0</Earnings>
+    <LastEarnings>0</LastEarnings>
+    <TotalEarnings>0</TotalEarnings>
+    <LastDrawDate>null</LastDrawDate>
+    <DrawNum num="0">0</DrawNum>
+    <DrawNum num="1">0</DrawNum>
+    <DrawNum num="2">0</DrawNum>
+    <DrawNum num="3">0</DrawNum>
+    <DrawNum num="4">0</DrawNum>
+    <DrawNum num="5">0</DrawNum>
+  </Data>
+</Lottery>
